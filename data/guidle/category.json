@@ -1,0 +1,4789 @@
+[ {
+  "category_id" : 3,
+  "title_de" : "Brauchtum / Fest",
+  "title_en" : "Customs, Folklore & Celebrations",
+  "title_fr" : "Coutumes, le folklore & célébrations",
+  "title_it" : "Tradizione, folclore & celebrazioni",
+  "parent_category_id" : null
+}, {
+  "category_id" : 7,
+  "title_de" : "Bühne",
+  "title_en" : "Stage",
+  "title_fr" : "Scène",
+  "title_it" : "Arti sceniche",
+  "parent_category_id" : null
+}, {
+  "category_id" : 11,
+  "title_de" : "Ausstellungen",
+  "title_en" : "Exhibitions",
+  "title_fr" : "Expositions",
+  "title_it" : "Esposizioni",
+  "parent_category_id" : null
+}, {
+  "category_id" : 15,
+  "title_de" : "Advents- / Samichlaus- / Weihnachtsanlass",
+  "title_en" : "Advent / Santa Claus / Christmas event",
+  "title_fr" : "Advent / Santa Claus / événement Noël",
+  "title_it" : "Avvento / Santa Claus / evento di Natale",
+  "parent_category_id" : 3
+}, {
+  "category_id" : 19,
+  "title_de" : "Kabarett / Comedy",
+  "title_en" : "Cabaret / Comedy",
+  "title_fr" : "Cabaret / comédie",
+  "title_it" : "Cabaret / Comedy",
+  "parent_category_id" : 7
+}, {
+  "category_id" : 23,
+  "title_de" : "Kunst / Gestalten",
+  "title_en" : "Art & design",
+  "title_fr" : "Art & dessin",
+  "title_it" : "Arte & disegno",
+  "parent_category_id" : null
+}, {
+  "category_id" : 27,
+  "title_de" : "Konzert Pop / Rock / Jazz",
+  "title_en" : "Concert Pop / Rock / Jazz",
+  "title_fr" : "Concert Pop / Rock / Jazz",
+  "title_it" : "Concerto Pop / Rock / Jazz",
+  "parent_category_id" : null
+}, {
+  "category_id" : 31,
+  "title_de" : "Kongresse & Konferenzen",
+  "title_en" : "Congresses & conferences",
+  "title_fr" : "Congrès & conférences",
+  "title_it" : "Congressi e conferenze",
+  "parent_category_id" : null
+}, {
+  "category_id" : 35,
+  "title_de" : "Konzert Volkstümlich",
+  "title_en" : "Concert folk music",
+  "title_fr" : "Concert folklorique",
+  "title_it" : "Concerto folklorico",
+  "parent_category_id" : null
+}, {
+  "category_id" : 39,
+  "title_de" : "Gesellschaft",
+  "title_en" : "Society",
+  "title_fr" : "Société",
+  "title_it" : "Società",
+  "parent_category_id" : null
+}, {
+  "category_id" : 43,
+  "title_de" : "Archäologie / Ur- / Frühgeschichte",
+  "title_en" : "Archaeology / prehistoric history",
+  "title_fr" : "Archéologie / histoire préhistorique",
+  "title_it" : "Archeologia / stoira preistorica",
+  "parent_category_id" : 11
+}, {
+  "category_id" : 47,
+  "title_de" : "Markt / Messe",
+  "title_en" : "Fair & market",
+  "title_fr" : "Marché & foire",
+  "title_it" : "Mercato & fiera",
+  "parent_category_id" : null
+}, {
+  "category_id" : 51,
+  "title_de" : "Kleinkunst",
+  "title_en" : "Alternative scene",
+  "title_fr" : "Scène alternative",
+  "title_it" : "Szena alternativo",
+  "parent_category_id" : 7
+}, {
+  "category_id" : 55,
+  "title_de" : "Advents- / Weihnachtsmarkt",
+  "title_en" : "Advent / Christmas",
+  "title_fr" : "L'Avent / Noël",
+  "title_it" : "Avvento / Natale",
+  "parent_category_id" : 3
+}, {
+  "category_id" : 59,
+  "title_de" : "Architektur / Design",
+  "title_en" : "Architecture / Interior Design",
+  "title_fr" : "Architecture / Design d'intérieur",
+  "title_it" : "Architettura / Interior Design",
+  "parent_category_id" : 11
+}, {
+  "category_id" : 67,
+  "title_de" : "Musical",
+  "title_en" : "Musical",
+  "title_fr" : "Musical",
+  "title_it" : "Musical",
+  "parent_category_id" : 7
+}, {
+  "category_id" : 71,
+  "title_de" : "Bildung",
+  "title_en" : "Education",
+  "title_fr" : "Éducation",
+  "title_it" : "Formazione",
+  "parent_category_id" : 31
+}, {
+  "category_id" : 75,
+  "title_de" : "Pop",
+  "title_en" : "Pop",
+  "title_fr" : "Pop",
+  "title_it" : "Pop",
+  "parent_category_id" : 27
+}, {
+  "category_id" : 79,
+  "title_de" : "Alphorn",
+  "title_en" : "Alphorn",
+  "title_fr" : "Cor des alpes",
+  "title_it" : "Alphorn",
+  "parent_category_id" : 35
+}, {
+  "category_id" : 83,
+  "title_de" : "Alpwesen / Älperbruderschaften",
+  "title_en" : "Alpwesen / Älperbruderschaften",
+  "title_fr" : "Alpwesen / Älperbruderschaften",
+  "title_it" : "Alpwesen / Älperbruderschaften",
+  "parent_category_id" : 3
+}, {
+  "category_id" : 87,
+  "title_de" : "Alte Volksmusik",
+  "title_en" : "Old Swiss folk music",
+  "title_fr" : "Vieille musique folklorique Suisse",
+  "title_it" : "Vecchia musica Svizzera",
+  "parent_category_id" : 35
+}, {
+  "category_id" : 91,
+  "title_de" : "Business & Administration",
+  "title_en" : "Business & Administration",
+  "title_fr" : "Administration des affaires &",
+  "title_it" : "Business Administration &",
+  "parent_category_id" : 31
+}, {
+  "category_id" : 95,
+  "title_de" : "Pop allgemein",
+  "title_en" : "Pop in general",
+  "title_fr" : "Pop en générale",
+  "title_it" : "Pop generalmente",
+  "parent_category_id" : 75
+}, {
+  "category_id" : 99,
+  "title_de" : "Dauerausstellung",
+  "title_en" : "Permanent exhibition",
+  "title_fr" : "Exposition permanente",
+  "title_it" : "Mostra permanente",
+  "parent_category_id" : 11
+}, {
+  "category_id" : 103,
+  "title_de" : "Musik-Comedy",
+  "title_en" : "Music-Comedy",
+  "title_fr" : "Musique comique",
+  "title_it" : "Musica comica",
+  "parent_category_id" : 7
+}, {
+  "category_id" : 107,
+  "title_de" : "Chilbi",
+  "title_en" : "Fair",
+  "title_fr" : "Loyal",
+  "title_it" : "Leale",
+  "parent_category_id" : 3
+}, {
+  "category_id" : 111,
+  "title_de" : "Kunst allgemein",
+  "title_en" : "Art in general",
+  "title_fr" : "L'art en général",
+  "title_it" : "L'arte in generale",
+  "parent_category_id" : 23
+}, {
+  "category_id" : 115,
+  "title_de" : "Erdwissenschaften & Geologie",
+  "title_en" : "Earth Sciences & Geology",
+  "title_fr" : "Sciences de la terre et géologie",
+  "title_it" : "Scienze della terra e geologia",
+  "parent_category_id" : 11
+}, {
+  "category_id" : 119,
+  "title_de" : "Appenzellermusik",
+  "title_en" : "Appenzell Music",
+  "title_fr" : "Appenzell musique",
+  "title_it" : "Musica folk. di Appenzell",
+  "parent_category_id" : 35
+}, {
+  "category_id" : 123,
+  "title_de" : "Oper / Operette",
+  "title_en" : "Opera / Operetta",
+  "title_fr" : "Opéra / Opérette",
+  "title_it" : "Opera / Operetta",
+  "parent_category_id" : 7
+}, {
+  "category_id" : 127,
+  "title_de" : "Erdwissenschaften & Geologie",
+  "title_en" : "Earth Sciences & Geology",
+  "title_fr" : "Sciences de la terre et géologie",
+  "title_it" : "Scienze della terra e geologia",
+  "parent_category_id" : 31
+}, {
+  "category_id" : 131,
+  "title_de" : "Fasnacht",
+  "title_en" : "Carnival",
+  "title_fr" : "Carnaval",
+  "title_it" : "Carnevale",
+  "parent_category_id" : 3
+}, {
+  "category_id" : 135,
+  "title_de" : "Aktuelle Charts",
+  "title_en" : "Current charts",
+  "title_fr" : "Hit-parade",
+  "title_it" : "Hit-parade",
+  "parent_category_id" : 75
+}, {
+  "category_id" : 139,
+  "title_de" : "Gemütliches Beisammensein & geselliges Treffen",
+  "title_en" : "Cozy get-togethers and social event",
+  "title_fr" : "Rencontres conviviales",
+  "title_it" : "Accoglienti ritrovi & evento sociale",
+  "parent_category_id" : 39
+}, {
+  "category_id" : 143,
+  "title_de" : "Blaskapelle",
+  "title_en" : "Brass Band",
+  "title_fr" : "Fanfare",
+  "title_it" : "Fanfara",
+  "parent_category_id" : 35
+}, {
+  "category_id" : 147,
+  "title_de" : "Architektur & Raumgestaltung",
+  "title_en" : "Architecture & Interior Design",
+  "title_fr" : "Architecture & Design de l'intérieur",
+  "title_it" : "Architettura & Interior Design",
+  "parent_category_id" : 23
+}, {
+  "category_id" : 151,
+  "title_de" : "Finanzen & Banking",
+  "title_en" : "Finance & banking",
+  "title_fr" : "Finances & bancaire",
+  "title_it" : "Finanza & bancari",
+  "parent_category_id" : 31
+}, {
+  "category_id" : 155,
+  "title_de" : "Oper",
+  "title_en" : "Opera",
+  "title_fr" : "Opéra",
+  "title_it" : "Opera",
+  "parent_category_id" : 123
+}, {
+  "category_id" : 159,
+  "title_de" : "Freilichtausstellung",
+  "title_en" : "Open-air exhibition",
+  "title_fr" : "Exposition en plein-air",
+  "title_it" : "Mostra open-air",
+  "parent_category_id" : 11
+}, {
+  "category_id" : 163,
+  "title_de" : "Fest",
+  "title_en" : "Festivity",
+  "title_fr" : "Fête",
+  "title_it" : "Festa",
+  "parent_category_id" : 3
+}, {
+  "category_id" : 167,
+  "title_de" : "Kinder- & Jugendgruppe",
+  "title_en" : "Children & youth groups",
+  "title_fr" : "Groupes pour enfants & jeunes",
+  "title_it" : "Gruppi per bambini & giovani",
+  "parent_category_id" : 39
+}, {
+  "category_id" : 171,
+  "title_de" : "Handorgel / Schwyzerörgeli",
+  "title_en" : "Handorgel / Schwyzerörgeli",
+  "title_fr" : "Accordéon",
+  "title_it" : "Handorgel / Schwyzerörgeli",
+  "parent_category_id" : 35
+}, {
+  "category_id" : 175,
+  "title_de" : "Gesundheit & Medizin",
+  "title_en" : "Health & medicine",
+  "title_fr" : "Santé & médecine",
+  "title_it" : "Salute e medicina",
+  "parent_category_id" : 31
+}, {
+  "category_id" : 179,
+  "title_de" : "Disco",
+  "title_en" : "Disco",
+  "title_fr" : "Disco",
+  "title_it" : "Disco",
+  "parent_category_id" : 75
+}, {
+  "category_id" : 183,
+  "title_de" : "Bild, Malerei & Druck",
+  "title_en" : "Picture, painting & printing",
+  "title_fr" : "Photo, peinture & typographie",
+  "title_it" : "Ritratto, pittura & stampa",
+  "parent_category_id" : 23
+}, {
+  "category_id" : 187,
+  "title_de" : "Geschichte",
+  "title_en" : "History",
+  "title_fr" : "Histoire",
+  "title_it" : "Storia",
+  "parent_category_id" : 11
+}, {
+  "category_id" : 191,
+  "title_de" : "Operette",
+  "title_en" : "Operetta",
+  "title_fr" : "Opérette",
+  "title_it" : "Operetta",
+  "parent_category_id" : 123
+}, {
+  "category_id" : 195,
+  "title_de" : "Folklore-Anlass / Heimatabend",
+  "title_en" : "Folklore Event / Heimatabend",
+  "title_fr" : "Evénement folklorique / Heimatabend",
+  "title_it" : "Manifestazione folcloristica / Heimatabend",
+  "parent_category_id" : 3
+}, {
+  "category_id" : 199,
+  "title_de" : "Bienli / Wölfli",
+  "title_en" : "Bienli / Wölfli",
+  "title_fr" : "Bienli / Wölfli",
+  "title_it" : "Bienli / Wölfli",
+  "parent_category_id" : 167
+}, {
+  "category_id" : 203,
+  "title_de" : "IT, Internet & Elektronik",
+  "title_en" : "IT, Internet & electronics",
+  "title_fr" : "ELLE, Internet & Electronique",
+  "title_it" : "IT, Internet & elettronica",
+  "parent_category_id" : 31
+}, {
+  "category_id" : 207,
+  "title_de" : "Jodel",
+  "title_en" : "Yodel",
+  "title_fr" : "Jodel",
+  "title_it" : "Jodel",
+  "parent_category_id" : 35
+}, {
+  "category_id" : 211,
+  "title_de" : "Easy Listening",
+  "title_en" : "Easy Listening",
+  "title_fr" : "Easy Listening",
+  "title_it" : "Easy Listening",
+  "parent_category_id" : 75
+}, {
+  "category_id" : 215,
+  "title_de" : "Druck",
+  "title_en" : "Print",
+  "title_fr" : "Imprimer",
+  "title_it" : "Stampa",
+  "parent_category_id" : 183
+}, {
+  "category_id" : 219,
+  "title_de" : "Historisches Gewerbe / Handwerk",
+  "title_en" : "Ancient crafts",
+  "title_fr" : "Métiers historiques",
+  "title_it" : "Mestiere storico",
+  "parent_category_id" : 11
+}, {
+  "category_id" : 223,
+  "title_de" : "Performance / Show",
+  "title_en" : "Performance / Show",
+  "title_fr" : "Performance / Show",
+  "title_it" : "Performance / Spettacolo",
+  "parent_category_id" : 7
+}, {
+  "category_id" : 227,
+  "title_de" : "Guggenmusik",
+  "title_en" : "Carneval group",
+  "title_fr" : "Groupe de carneval",
+  "title_it" : "Gruppo carnevale",
+  "parent_category_id" : 3
+}, {
+  "category_id" : 231,
+  "title_de" : "Blauring",
+  "title_en" : "Blauring",
+  "title_fr" : "Blauring",
+  "title_it" : "Blauring",
+  "parent_category_id" : 167
+}, {
+  "category_id" : 235,
+  "title_de" : "Ländlerkapelle",
+  "title_en" : "Swiss Ländler Music",
+  "title_fr" : "Musique Ländler",
+  "title_it" : "Musica Ländler",
+  "parent_category_id" : 35
+}, {
+  "category_id" : 239,
+  "title_de" : "Kommunikation & Sprache",
+  "title_en" : "Communication & language",
+  "title_fr" : "Communication & langue",
+  "title_it" : "Communicazione & lingua",
+  "parent_category_id" : 31
+}, {
+  "category_id" : 243,
+  "title_de" : "New Wave / Dark Wave",
+  "title_en" : "New Wave / Dark Wave",
+  "title_fr" : "New Wave / Dark Wave",
+  "title_it" : "New Wave / Dark Wave",
+  "parent_category_id" : 75
+}, {
+  "category_id" : 247,
+  "title_de" : "Malen / Zeichnen",
+  "title_en" : "Painting / Drawing",
+  "title_fr" : "Peinture / Dessin",
+  "title_it" : "Pittura / Disegno",
+  "parent_category_id" : 183
+}, {
+  "category_id" : 251,
+  "title_de" : "Kochen / Essen / Trinken",
+  "title_en" : "Cooking / Food / Drink",
+  "title_fr" : "Cooking / Food / Drink",
+  "title_it" : "Cooking / Food / Drink",
+  "parent_category_id" : 11
+}, {
+  "category_id" : 255,
+  "title_de" : "Kunst-Performance",
+  "title_en" : "Artistic performance",
+  "title_fr" : "Performance artistique",
+  "title_it" : "Performance artistico",
+  "parent_category_id" : 223
+}, {
+  "category_id" : 259,
+  "title_de" : "Historischer Brauch",
+  "title_en" : "Historical custom",
+  "title_fr" : "Coutume historique",
+  "title_it" : "Costume storico",
+  "parent_category_id" : 3
+}, {
+  "category_id" : 263,
+  "title_de" : "Jugendtreff",
+  "title_en" : "Youth get-together",
+  "title_fr" : "Place de rencontres des jeunes",
+  "title_it" : "Luogo d'incontro dei giovani",
+  "parent_category_id" : 167
+}, {
+  "category_id" : 267,
+  "title_de" : "Neue Volksmusik",
+  "title_en" : "New folk music",
+  "title_fr" : "Nouvelle musique folklorique",
+  "title_it" : "Nuova musica folklorica",
+  "parent_category_id" : 35
+}, {
+  "category_id" : 271,
+  "title_de" : "Kultur",
+  "title_en" : "Culture",
+  "title_fr" : "Culture",
+  "title_it" : "Cultura",
+  "parent_category_id" : 31
+}, {
+  "category_id" : 275,
+  "title_de" : "Schlager",
+  "title_en" : "Schlager",
+  "title_fr" : "Schlager",
+  "title_it" : "Canzonetta",
+  "parent_category_id" : 75
+}, {
+  "category_id" : 279,
+  "title_de" : "Weitere Angebote Bild",
+  "title_en" : "More picture, painting / printing ads",
+  "title_fr" : "Autres offres Photo, peinture / typographie",
+  "title_it" : "Altre offerte Ritratto, pittura / stampa",
+  "parent_category_id" : 183
+}, {
+  "category_id" : 283,
+  "title_de" : "Kommunikation / Medien",
+  "title_en" : "Communication / media",
+  "title_fr" : "Communication / médias",
+  "title_it" : "comunicazione / media",
+  "parent_category_id" : 11
+}, {
+  "category_id" : 287,
+  "title_de" : "Pantomime",
+  "title_en" : "Pantomime",
+  "title_fr" : "Pantomime",
+  "title_it" : "Pantomima",
+  "parent_category_id" : 223
+}, {
+  "category_id" : 291,
+  "title_de" : "Kinderfest",
+  "title_en" : "Children",
+  "title_fr" : "Fête Enfants",
+  "title_it" : "Bambini",
+  "parent_category_id" : 3
+}, {
+  "category_id" : 295,
+  "title_de" : "Jungschar",
+  "title_en" : "Jungschar",
+  "title_fr" : "Jungschar",
+  "title_it" : "Jungschar",
+  "parent_category_id" : 167
+}, {
+  "category_id" : 299,
+  "title_de" : "Tessinermusik",
+  "title_en" : "Ticino Music",
+  "title_fr" : "Musique du Tessin",
+  "title_it" : "Musica ticinese",
+  "parent_category_id" : 35
+}, {
+  "category_id" : 303,
+  "title_de" : "Personalwesen",
+  "title_en" : "Human resources",
+  "title_fr" : "Ressources humaines",
+  "title_it" : "Risorse umane",
+  "parent_category_id" : 31
+}, {
+  "category_id" : 307,
+  "title_de" : "Trip Hop",
+  "title_en" : "Trip Hop",
+  "title_fr" : "Trip Hop",
+  "title_it" : "Trip Hop",
+  "parent_category_id" : 75
+}, {
+  "category_id" : 311,
+  "title_de" : "Foto, Film & neue Medien",
+  "title_en" : "Photo, Film & New Media",
+  "title_fr" : "Photo, film & nouveaux médias",
+  "title_it" : "Foto, Film & Media nuove",
+  "parent_category_id" : 23
+}, {
+  "category_id" : 315,
+  "title_de" : "Kunst",
+  "title_en" : "Arts",
+  "title_fr" : "Art",
+  "title_it" : "Arte",
+  "parent_category_id" : 11
+}, {
+  "category_id" : 319,
+  "title_de" : "Show",
+  "title_en" : "Show",
+  "title_fr" : "Show",
+  "title_it" : "Spettacolo",
+  "parent_category_id" : 223
+}, {
+  "category_id" : 323,
+  "title_de" : "Nationalfeier",
+  "title_en" : "National holiday",
+  "title_fr" : "Fête national",
+  "title_it" : "Festa nazionale",
+  "parent_category_id" : 3
+}, {
+  "category_id" : 327,
+  "title_de" : "Jungwacht",
+  "title_en" : "Jungwacht",
+  "title_fr" : "Jungwacht",
+  "title_it" : "Jungwacht",
+  "parent_category_id" : 167
+}, {
+  "category_id" : 331,
+  "title_de" : "Volkstümlicher Chor",
+  "title_en" : "Folk choir",
+  "title_fr" : "Choeur folklorique",
+  "title_it" : "Coro Folk",
+  "parent_category_id" : 35
+}, {
+  "category_id" : 335,
+  "title_de" : "Politik & Gesellschaft",
+  "title_en" : "Politics & society",
+  "title_fr" : "Politique & Société",
+  "title_it" : "Politica & società",
+  "parent_category_id" : 31
+}, {
+  "category_id" : 339,
+  "title_de" : "Rock",
+  "title_en" : "Rock",
+  "title_fr" : "Rock",
+  "title_it" : "Rock",
+  "parent_category_id" : 27
+}, {
+  "category_id" : 343,
+  "title_de" : "Film",
+  "title_en" : "Film",
+  "title_fr" : "Film",
+  "title_it" : "Film",
+  "parent_category_id" : 311
+}, {
+  "category_id" : 347,
+  "title_de" : "Kunsthandwerk / Gold / Schmuck / Uhren / Mode",
+  "title_en" : "Crafts / Gold / jewelry / fashion",
+  "title_fr" : "Artisanat / or / bijoux / mode",
+  "title_it" : "Artigianato / oro / grazioso / moda",
+  "parent_category_id" : 11
+}, {
+  "category_id" : 351,
+  "title_de" : "Travestie",
+  "title_en" : "Travesty",
+  "title_fr" : "Travestie",
+  "title_it" : "Travestie",
+  "parent_category_id" : 223
+}, {
+  "category_id" : 355,
+  "title_de" : "Winzertum",
+  "title_en" : "Wine-growing",
+  "title_fr" : "Viticulture",
+  "title_it" : "Viticola",
+  "parent_category_id" : 3
+}, {
+  "category_id" : 359,
+  "title_de" : "Pfadfinder / Pioniere / Rover",
+  "title_en" : "Scouts / Pioneers / Rover",
+  "title_fr" : "Scouts",
+  "title_it" : "Boy-scout",
+  "parent_category_id" : 167
+}, {
+  "category_id" : 363,
+  "title_de" : "Volkstümliche Unterhaltung / Schlager",
+  "title_en" : "Popular entertainer / Schlager",
+  "title_fr" : "Musique populaire / Schlager",
+  "title_it" : "Divertimento popolare / Schlager",
+  "parent_category_id" : 35
+}, {
+  "category_id" : 367,
+  "title_de" : "PR, Marketing, Medien & Werbung",
+  "title_en" : "PR, marketing, media & advertising",
+  "title_fr" : "PR, marketing, médias & publicité",
+  "title_it" : "PR, marketing, media & pubblicità",
+  "parent_category_id" : 31
+}, {
+  "category_id" : 371,
+  "title_de" : "Foto",
+  "title_en" : "Photo",
+  "title_fr" : "Photo",
+  "title_it" : "Foto",
+  "parent_category_id" : 311
+}, {
+  "category_id" : 375,
+  "title_de" : "Rock allgemein",
+  "title_en" : "Rock in general",
+  "title_fr" : "Rock en générale",
+  "title_it" : "Rock generalmente",
+  "parent_category_id" : 339
+}, {
+  "category_id" : 379,
+  "title_de" : "Mensch / Gesellschaft",
+  "title_en" : "Man / society",
+  "title_fr" : "Homme / société",
+  "title_it" : "Uomo / società",
+  "parent_category_id" : 11
+}, {
+  "category_id" : 383,
+  "title_de" : "Varieté",
+  "title_en" : "Vaudeville",
+  "title_fr" : "Varieté",
+  "title_it" : "Varietà",
+  "parent_category_id" : 223
+}, {
+  "category_id" : 387,
+  "title_de" : "Zunft- / Gildewesen",
+  "title_en" : "Guild / guild system",
+  "title_fr" : "Guilde / système de guilde",
+  "title_it" : "Gilda / Guild sistema",
+  "parent_category_id" : 3
+}, {
+  "category_id" : 391,
+  "title_de" : "Weitere Kinder- / Jugendgruppen",
+  "title_en" : "Other children / youth groups",
+  "title_fr" : "Autres groupes pour enfants / jeunes",
+  "title_it" : "Altri gruppi per bambini / giovani",
+  "parent_category_id" : 167
+}, {
+  "category_id" : 395,
+  "title_de" : "Weitere Volksmusik",
+  "title_en" : "Other Swiss folk music",
+  "title_fr" : "Autre musique folklorique Suisse",
+  "title_it" : "Altra musica folklorica svizzera",
+  "parent_category_id" : 35
+}, {
+  "category_id" : 399,
+  "title_de" : "Psychologie",
+  "title_en" : "Psychology",
+  "title_fr" : "Psychologie",
+  "title_it" : "Psicologia",
+  "parent_category_id" : 31
+}, {
+  "category_id" : 403,
+  "title_de" : "Hardrock",
+  "title_en" : "Hardrock",
+  "title_fr" : "Hardrock",
+  "title_it" : "Hardrock",
+  "parent_category_id" : 339
+}, {
+  "category_id" : 407,
+  "title_de" : "Neue Medien",
+  "title_en" : "New Media",
+  "title_fr" : "Nouveaux médias",
+  "title_it" : "Media nuove",
+  "parent_category_id" : 311
+}, {
+  "category_id" : 411,
+  "title_de" : "Musik",
+  "title_en" : "Music",
+  "title_fr" : "Musique",
+  "title_it" : "Musica",
+  "parent_category_id" : 11
+}, {
+  "category_id" : 415,
+  "title_de" : "Poetry Slam / Vortragskunst",
+  "title_en" : "Poetry Slam / elocution",
+  "title_fr" : "Poetry Slam",
+  "title_it" : "Poetry Slam",
+  "parent_category_id" : 7
+}, {
+  "category_id" : 419,
+  "title_de" : "Weitere Angebote Brauchtum & Folklore",
+  "title_en" : "More customs & folklore ads",
+  "title_fr" : "Plus Offres Customs & folklore",
+  "title_it" : "Altre offerte Customs & Folklore",
+  "parent_category_id" : 3
+}, {
+  "category_id" : 423,
+  "title_de" : "Partei & Politik",
+  "title_en" : "Politics & political parties",
+  "title_fr" : "Parti & Politique",
+  "title_it" : "Partito & Politica",
+  "parent_category_id" : 39
+}, {
+  "category_id" : 427,
+  "title_de" : "Reisen, Tourismus, Sport & Lifestyle",
+  "title_en" : "Travel, tourism, sports & lifestyle",
+  "title_fr" : "Voyage, tourisme, sports & lifestyle",
+  "title_it" : "Viaggi, turismo, sport e lifestyle",
+  "parent_category_id" : 31
+}, {
+  "category_id" : 431,
+  "title_de" : "Gemeindekalender",
+  "title_en" : "Community calendar",
+  "title_fr" : "Calendrier communautaire",
+  "title_it" : "Comunità civile",
+  "parent_category_id" : null
+}, {
+  "category_id" : 435,
+  "title_de" : "Independent / alternative Rock",
+  "title_en" : "Independent / Alternative Rock",
+  "title_fr" : "Indépendante / Alternative Rock",
+  "title_it" : "Indipendente / Alternative Rock",
+  "parent_category_id" : 339
+}, {
+  "category_id" : 439,
+  "title_de" : "Podcast",
+  "title_en" : "Podcast",
+  "title_fr" : "Podcast",
+  "title_it" : "Podcast",
+  "parent_category_id" : 311
+}, {
+  "category_id" : 443,
+  "title_de" : "Natur",
+  "title_en" : "Nature / Environment",
+  "title_fr" : "Nature / Environnement",
+  "title_it" : "Natura / Ambiente",
+  "parent_category_id" : 11
+}, {
+  "category_id" : 447,
+  "title_de" : "Tanz",
+  "title_en" : "Dance",
+  "title_fr" : "Danse",
+  "title_it" : "Danza",
+  "parent_category_id" : 7
+}, {
+  "category_id" : 451,
+  "title_de" : "Kulinarik",
+  "title_en" : "Culinary art",
+  "title_fr" : "Art culinaire",
+  "title_it" : "Arte culinaria",
+  "parent_category_id" : null
+}, {
+  "category_id" : 455,
+  "title_de" : "Abstimmung & Wahl (Urnengang)",
+  "title_en" : "Voting & election (polls)",
+  "title_fr" : "Votation & d'élection (sondages)",
+  "title_it" : "Votazione & le elezioni (sondaggi)",
+  "parent_category_id" : 431
+}, {
+  "category_id" : 459,
+  "title_de" : "Umwelt & Energie",
+  "title_en" : "Environment & energy",
+  "title_fr" : "Environnement & énergie",
+  "title_it" : "Ambiente & energia",
+  "parent_category_id" : 31
+}, {
+  "category_id" : 463,
+  "title_de" : "Öffentliche Diskussion",
+  "title_en" : "Public Discussion",
+  "title_fr" : "Discussion publique",
+  "title_it" : "Discussione pubblica",
+  "parent_category_id" : 423
+}, {
+  "category_id" : 467,
+  "title_de" : "Gastro-Angebote",
+  "title_en" : "Special food offers",
+  "title_fr" : "Offres de restauration spéciaux",
+  "title_it" : "Offerte speciali di restaurazione",
+  "parent_category_id" : 451
+}, {
+  "category_id" : 471,
+  "title_de" : "Entsorgung & Abfuhr",
+  "title_en" : "Disposal & removal",
+  "title_fr" : "Traitement des déchets & déménagement",
+  "title_it" : "Smaltimento & la rimozione",
+  "parent_category_id" : 431
+}, {
+  "category_id" : 475,
+  "title_de" : "Metal / Hardcore",
+  "title_en" : "Metal / Hardcore",
+  "title_fr" : "Metal / Hardcore",
+  "title_it" : "Metal / Hardcore",
+  "parent_category_id" : 339
+}, {
+  "category_id" : 479,
+  "title_de" : "Radio",
+  "title_en" : "Radio",
+  "title_fr" : "Radio",
+  "title_it" : "Radio",
+  "parent_category_id" : 311
+}, {
+  "category_id" : 483,
+  "title_de" : "CVP / JCVP",
+  "title_en" : "CVP Christlichdemokratische Volkspartei & Junge CVP",
+  "title_fr" : "PDC / PDCJ",
+  "title_it" : "PPD / PPDG",
+  "parent_category_id" : 423
+}, {
+  "category_id" : 487,
+  "title_de" : "Wellness & Fitness",
+  "title_en" : "Wellness & fitness",
+  "title_fr" : "Bien-être & remise en forme",
+  "title_it" : "Benessere & fitness",
+  "parent_category_id" : 31
+}, {
+  "category_id" : 491,
+  "title_de" : "Personen",
+  "title_en" : "Person",
+  "title_fr" : "Personnes",
+  "title_it" : "Persone",
+  "parent_category_id" : 11
+}, {
+  "category_id" : 495,
+  "title_de" : "Apéro",
+  "title_en" : "Aperitif",
+  "title_fr" : "Apéritif",
+  "title_it" : "Aperitivo",
+  "parent_category_id" : 467
+}, {
+  "category_id" : 499,
+  "title_de" : "Tanzstil",
+  "title_en" : "Dance stile",
+  "title_fr" : "Stile de danse",
+  "title_it" : "Stili di danza",
+  "parent_category_id" : 447
+}, {
+  "category_id" : 503,
+  "title_de" : "Punk",
+  "title_en" : "Punk",
+  "title_fr" : "Punk",
+  "title_it" : "Punk",
+  "parent_category_id" : 339
+}, {
+  "category_id" : 507,
+  "title_de" : "Video",
+  "title_en" : "Video",
+  "title_fr" : "Vidéo",
+  "title_it" : "Video",
+  "parent_category_id" : 311
+}, {
+  "category_id" : 511,
+  "title_de" : "Abfuhr Hauskehricht",
+  "title_en" : "Household waste removal",
+  "title_fr" : "L'enlèvement des déchets des ménages",
+  "title_it" : "La rimozione dei rifiuti domestici",
+  "parent_category_id" : 471
+}, {
+  "category_id" : 515,
+  "title_de" : "Brunch",
+  "title_en" : "Brunch",
+  "title_fr" : "Brunch",
+  "title_it" : "Brunch",
+  "parent_category_id" : 467
+}, {
+  "category_id" : 519,
+  "title_de" : "FDP",
+  "title_en" : "FDP.Die Liberalen",
+  "title_fr" : "PLR",
+  "title_it" : "PLR",
+  "parent_category_id" : 423
+}, {
+  "category_id" : 523,
+  "title_de" : "Sonderausstellung",
+  "title_en" : "Special exhibition",
+  "title_fr" : "Exposition spéciale",
+  "title_it" : "Esposizione particolare",
+  "parent_category_id" : 11
+}, {
+  "category_id" : 527,
+  "title_de" : "Wissenschaft, Forschung & Entwicklung",
+  "title_en" : "Science, research & development",
+  "title_fr" : "Science, recherche & développement",
+  "title_it" : "Scienza, ricerca e sviluppo",
+  "parent_category_id" : 31
+}, {
+  "category_id" : 531,
+  "title_de" : "Tanzplausch (selber tanzen)",
+  "title_en" : "Dance yourself",
+  "title_fr" : "Rejoigner à la danse",
+  "title_it" : "Danza te stesso",
+  "parent_category_id" : 499
+}, {
+  "category_id" : 535,
+  "title_de" : "Rock'n'Roll",
+  "title_en" : "Rock'n'Roll",
+  "title_fr" : "Rock'n'Roll",
+  "title_it" : "Rock'n'Roll",
+  "parent_category_id" : 339
+}, {
+  "category_id" : 539,
+  "title_de" : "Fondueplausch",
+  "title_en" : "Cheese fondue",
+  "title_fr" : "Fondue au fromage",
+  "title_it" : "Fonduta",
+  "parent_category_id" : 467
+}, {
+  "category_id" : 543,
+  "title_de" : "Weitere Kongresse & Konferenzen",
+  "title_en" : "More congresses & conferences",
+  "title_fr" : "Plusieurs congrès & conférences",
+  "title_it" : "Altri congressi & conferenze",
+  "parent_category_id" : 31
+}, {
+  "category_id" : 547,
+  "title_de" : "Altpapier-Sammlung",
+  "title_en" : "Waste paper collection",
+  "title_fr" : "Collecte de déchets de papier",
+  "title_it" : "Di raccolta dei rifiuti di carta",
+  "parent_category_id" : 471
+}, {
+  "category_id" : 551,
+  "title_de" : "SVP",
+  "title_en" : "SVP Schweizerische Volkspartei",
+  "title_fr" : "UDC",
+  "title_it" : "UDC",
+  "parent_category_id" : 423
+}, {
+  "category_id" : 555,
+  "title_de" : "Spezialität des Tages",
+  "title_en" : "Specialty of the day",
+  "title_fr" : "Spécialité du jour",
+  "title_it" : "Specialità del giorno",
+  "parent_category_id" : 467
+}, {
+  "category_id" : 559,
+  "title_de" : "Rockabilly",
+  "title_en" : "Rockabilly",
+  "title_fr" : "Rockabilly",
+  "title_it" : "Rockabilly",
+  "parent_category_id" : 339
+}, {
+  "category_id" : 563,
+  "title_de" : "Gestaltung, Mode & Skulptur",
+  "title_en" : "Design, Fashion & Sculpture",
+  "title_fr" : "Design, Mode & Sculpture",
+  "title_it" : "Design, Moda & Sculpture",
+  "parent_category_id" : 23
+}, {
+  "category_id" : 567,
+  "title_de" : "Konzert Weitere",
+  "title_en" : "Concerts others",
+  "title_fr" : "Concerts autres",
+  "title_it" : "Concerti altri",
+  "parent_category_id" : null
+}, {
+  "category_id" : 571,
+  "title_de" : "Grüngut-Sammlung",
+  "title_en" : "Green waste collection",
+  "title_fr" : "Collecte des résidus verts",
+  "title_it" : "La raccolta dei rifiuti verdi",
+  "parent_category_id" : 471
+}, {
+  "category_id" : 575,
+  "title_de" : "Sport & Spiel",
+  "title_en" : "Sports & Games",
+  "title_fr" : "Sports & Jeu",
+  "title_it" : "Sport & Gioco",
+  "parent_category_id" : 11
+}, {
+  "category_id" : 579,
+  "title_de" : "Weitere Restaurant- / Barangebote",
+  "title_en" : "More Food Specials",
+  "title_fr" : "Autres Promotions alimentaire",
+  "title_it" : "Altri",
+  "parent_category_id" : 467
+}, {
+  "category_id" : 583,
+  "title_de" : "Weitere Angebote Politik",
+  "title_en" : "More politic ads",
+  "title_fr" : "Autres offres de politique",
+  "title_it" : "Altre offerte della politica",
+  "parent_category_id" : 423
+}, {
+  "category_id" : 587,
+  "title_de" : "Black Music",
+  "title_en" : "Urban music",
+  "title_fr" : "Black Music",
+  "title_it" : "Black Music",
+  "parent_category_id" : 27
+}, {
+  "category_id" : 591,
+  "title_de" : "Boogie-Woogie",
+  "title_en" : "Boogie-Woogie",
+  "title_fr" : "Boogie-Woogie",
+  "title_it" : "Boogie-Woogie",
+  "parent_category_id" : 499
+}, {
+  "category_id" : 595,
+  "title_de" : "Bildhauerei / Skulptur",
+  "title_en" : "Sculpture",
+  "title_fr" : "Sculpture",
+  "title_it" : "Scultura",
+  "parent_category_id" : 563
+}, {
+  "category_id" : 599,
+  "title_de" : "Festival / Openair",
+  "title_en" : "Festival / Meetings",
+  "title_fr" : "Festival / Openair",
+  "title_it" : "Festival / Openair",
+  "parent_category_id" : 567
+}, {
+  "category_id" : 603,
+  "title_de" : "Karton-Sammlung",
+  "title_en" : "Cardboard Collection",
+  "title_fr" : "Carton Collection",
+  "title_it" : "Cartone Collection",
+  "parent_category_id" : 471
+}, {
+  "category_id" : 607,
+  "title_de" : "Technik / Technologie",
+  "title_en" : "Engineering / technology",
+  "title_fr" : "Technique / Technologie",
+  "title_it" : "Ingegneria / tecnologia",
+  "parent_category_id" : 11
+}, {
+  "category_id" : 611,
+  "title_de" : "Hip-Hop",
+  "title_en" : "Hip-Hop",
+  "title_fr" : "Hip-Hop",
+  "title_it" : "Hip-Hop",
+  "parent_category_id" : 587
+}, {
+  "category_id" : 615,
+  "title_de" : "Zusammenleben & Lebenshilfe",
+  "title_en" : "Relationship advice & life coaching",
+  "title_fr" : "Relations & Entreaide",
+  "title_it" : "Relazioni & assistanza mutuale",
+  "parent_category_id" : 39
+}, {
+  "category_id" : 619,
+  "title_de" : "Breakdance",
+  "title_en" : "Breakdance",
+  "title_fr" : "Breakdance",
+  "title_it" : "Breakdance",
+  "parent_category_id" : 499
+}, {
+  "category_id" : 623,
+  "title_de" : "Design",
+  "title_en" : "Design",
+  "title_fr" : "Design",
+  "title_it" : "Design",
+  "parent_category_id" : 563
+}, {
+  "category_id" : 627,
+  "title_de" : "Festival / Treffen",
+  "title_en" : "Festival / Meetings",
+  "title_fr" : "Festival / réunions",
+  "title_it" : "Festival / Incontro",
+  "parent_category_id" : 599
+}, {
+  "category_id" : 631,
+  "title_de" : "Kochen, Essen & Degustieren",
+  "title_en" : "Cooking, Food & Taste",
+  "title_fr" : "Cuisine, manger & dégustation",
+  "title_it" : "Cottura, cibo & degustazione",
+  "parent_category_id" : 451
+}, {
+  "category_id" : 635,
+  "title_de" : "Tiere",
+  "title_en" : "Animals",
+  "title_fr" : "Animaux",
+  "title_it" : "Animali",
+  "parent_category_id" : 11
+}, {
+  "category_id" : 639,
+  "title_de" : "Metall-Sammlung",
+  "title_en" : "Metal Collection",
+  "title_fr" : "Collection Métal",
+  "title_it" : "Collezione metalle",
+  "parent_category_id" : 471
+}, {
+  "category_id" : 643,
+  "title_de" : "Flamenco",
+  "title_en" : "Flamenco",
+  "title_fr" : "Flamenco",
+  "title_it" : "Flamenco",
+  "parent_category_id" : 499
+}, {
+  "category_id" : 647,
+  "title_de" : "R'n'B",
+  "title_en" : "R'n'B",
+  "title_fr" : "R'n'B",
+  "title_it" : "R'n'B",
+  "parent_category_id" : 587
+}, {
+  "category_id" : 651,
+  "title_de" : "Beratung / Motivation",
+  "title_en" : "Advice",
+  "title_fr" : "Conseil",
+  "title_it" : "Consiglio",
+  "parent_category_id" : 615
+}, {
+  "category_id" : 655,
+  "title_de" : "Openair",
+  "title_en" : "Openair",
+  "title_fr" : "Openair",
+  "title_it" : "Openair",
+  "parent_category_id" : 599
+}, {
+  "category_id" : 659,
+  "title_de" : "Installation",
+  "title_en" : "Installation",
+  "title_fr" : "Installation",
+  "title_it" : "Installazione",
+  "parent_category_id" : 563
+}, {
+  "category_id" : 663,
+  "title_de" : "Degustation",
+  "title_en" : "Tasting",
+  "title_fr" : "Dégustation",
+  "title_it" : "Degustazione",
+  "parent_category_id" : 631
+}, {
+  "category_id" : 667,
+  "title_de" : "Verkehr / Fahrzeuge",
+  "title_en" : "Transportation / Vehicles",
+  "title_fr" : "Transport / Véhicules",
+  "title_it" : "Trasporti / Veicoli",
+  "parent_category_id" : 11
+}, {
+  "category_id" : 671,
+  "title_de" : "Rap",
+  "title_en" : "Rap",
+  "title_fr" : "Rap",
+  "title_it" : "Rap",
+  "parent_category_id" : 587
+}, {
+  "category_id" : 675,
+  "title_de" : "Sperrgut-Sammlung",
+  "title_en" : "Bulky goods collection",
+  "title_fr" : "Collecte de marchandises encombrantes",
+  "title_it" : "Ingombrante raccolta",
+  "parent_category_id" : 471
+}, {
+  "category_id" : 679,
+  "title_de" : "Irish Dance",
+  "title_en" : "Irish Dance",
+  "title_fr" : "Danse irlandaise",
+  "title_it" : "Irish Dance",
+  "parent_category_id" : 499
+}, {
+  "category_id" : 683,
+  "title_de" : "Beratung im Alltag",
+  "title_en" : "Counseling in everyday life",
+  "title_fr" : "Assistance dans la vie quotidienne",
+  "title_it" : "Assistanza nella vita quotidiana",
+  "parent_category_id" : 651
+}, {
+  "category_id" : 687,
+  "title_de" : "Preisverleihung",
+  "title_en" : "Awards",
+  "title_fr" : "Remise d'un prix",
+  "title_it" : "Premiazione",
+  "parent_category_id" : 567
+}, {
+  "category_id" : 691,
+  "title_de" : "Essen mit Rahmenprogramm",
+  "title_en" : "Food with program",
+  "title_fr" : "Souper avec divertissement",
+  "title_it" : "Cibo con divertimento",
+  "parent_category_id" : 631
+}, {
+  "category_id" : 695,
+  "title_de" : "Reggae / Dancehall",
+  "title_en" : "Reggae",
+  "title_fr" : "Reggae",
+  "title_it" : "Reggae",
+  "parent_category_id" : 587
+}, {
+  "category_id" : 699,
+  "title_de" : "Kunsthandwerk",
+  "title_en" : "Crafts",
+  "title_fr" : "Artisanat",
+  "title_it" : "Artigianato",
+  "parent_category_id" : 563
+}, {
+  "category_id" : 703,
+  "title_de" : "Weitere Sammlungen",
+  "title_en" : "More collections",
+  "title_fr" : "Autres collections",
+  "title_it" : "Altri collezioni",
+  "parent_category_id" : 471
+}, {
+  "category_id" : 707,
+  "title_de" : "Völker / Reisen / Geographie",
+  "title_en" : "Travel / Geography",
+  "title_fr" : "Voyage / Géographie",
+  "title_it" : "Viaggi / Geografia",
+  "parent_category_id" : 11
+}, {
+  "category_id" : 711,
+  "title_de" : "Rat & Tat bei Krankheiten",
+  "title_en" : "Advice / assistance in disease",
+  "title_fr" : "Aide dans la maladie",
+  "title_it" : "Sostegno nella malattia",
+  "parent_category_id" : 651
+}, {
+  "category_id" : 715,
+  "title_de" : "Jazz-Tanz",
+  "title_en" : "Jazz Dance",
+  "title_fr" : "Jazz Dance",
+  "title_it" : "Jazz Dance",
+  "parent_category_id" : 499
+}, {
+  "category_id" : 719,
+  "title_de" : "Ska",
+  "title_en" : "Ska",
+  "title_fr" : "Ska",
+  "title_it" : "Ska",
+  "parent_category_id" : 587
+}, {
+  "category_id" : 723,
+  "title_de" : "Vortrag / Workshop",
+  "title_en" : "Lecture / workshop",
+  "title_fr" : "Conférence / workshop",
+  "title_it" : "Lezione / workshop",
+  "parent_category_id" : 567
+}, {
+  "category_id" : 727,
+  "title_de" : "Mode, Stoffe / Schmuck",
+  "title_en" : "Fashion, Fabrics / Jewelery",
+  "title_fr" : "Fashion, Fabrics / Bijoux",
+  "title_it" : "Tessuti, moda / gioielli",
+  "parent_category_id" : 563
+}, {
+  "category_id" : 731,
+  "title_de" : "Essen mit Theater / Konzert",
+  "title_en" : "Food with a theater / concert",
+  "title_fr" : "Souper avec un théâtre / concert",
+  "title_it" : "Cibo con un teatro / concerto",
+  "parent_category_id" : 631
+}, {
+  "category_id" : 735,
+  "title_de" : "Feiertag",
+  "title_en" : "Holiday",
+  "title_fr" : "Jour de vacances",
+  "title_it" : "Giorno di vacanze",
+  "parent_category_id" : 431
+}, {
+  "category_id" : 739,
+  "title_de" : "Rat & Tat für Eltern",
+  "title_en" : "Advice / support for parents",
+  "title_fr" : "Aide pour les parents",
+  "title_it" : "Sostegno per i genitori",
+  "parent_category_id" : 651
+}, {
+  "category_id" : 743,
+  "title_de" : "Wissen / Wissenschaften / Medizin",
+  "title_en" : "Knowledge / Science",
+  "title_fr" : "Connaissance / Sciences",
+  "title_it" : "Conoscenze / Scienza",
+  "parent_category_id" : 11
+}, {
+  "category_id" : 747,
+  "title_de" : "Lindy Hop",
+  "title_en" : "Lindy Hop",
+  "title_fr" : "Lindy Hop",
+  "title_it" : "Lindy Hop",
+  "parent_category_id" : 499
+}, {
+  "category_id" : 751,
+  "title_de" : "Blas-, Marsch- & Bandmusik",
+  "title_en" : "Bands & military music",
+  "title_fr" : "Musique militaire & unions",
+  "title_it" : "Marce / unioni",
+  "parent_category_id" : 567
+}, {
+  "category_id" : 755,
+  "title_de" : "Soul",
+  "title_en" : "Soul",
+  "title_fr" : "Soul",
+  "title_it" : "Soul",
+  "parent_category_id" : 587
+}, {
+  "category_id" : 759,
+  "title_de" : "Food Festival",
+  "title_en" : "Food Festival",
+  "title_fr" : "Food Festival",
+  "title_it" : "Food Festival",
+  "parent_category_id" : 631
+}, {
+  "category_id" : 763,
+  "title_de" : "Modellieren",
+  "title_en" : "Modeling",
+  "title_fr" : "Modélisation",
+  "title_it" : "Modellazione",
+  "parent_category_id" : 563
+}, {
+  "category_id" : 767,
+  "title_de" : "Generalversammlung / Delegiertenversammlung (Verein)",
+  "title_en" : "Annual General / Delegates",
+  "title_fr" : "Assemblée générale annuelle / Delegates",
+  "title_it" : "Riunione generale",
+  "parent_category_id" : 431
+}, {
+  "category_id" : 771,
+  "title_de" : "Rat & Tat für Frauen",
+  "title_en" : "Advice / support for women",
+  "title_fr" : "Aide pour les femmes",
+  "title_it" : "Sostegno per le donne",
+  "parent_category_id" : 651
+}, {
+  "category_id" : 775,
+  "title_de" : "Big Band",
+  "title_en" : "Big Band",
+  "title_fr" : "Big Band",
+  "title_it" : "Big Band",
+  "parent_category_id" : 751
+}, {
+  "category_id" : 779,
+  "title_de" : "Elektronische Musik & Techno",
+  "title_en" : "Electronic music & techno",
+  "title_fr" : "Musique électronique & techno",
+  "title_it" : "Musica elettronica & techno",
+  "parent_category_id" : 27
+}, {
+  "category_id" : 783,
+  "title_de" : "Wohnen / Hausrat / Garten",
+  "title_en" : "Garden / Flowers",
+  "title_fr" : "Jardin / Fleurs",
+  "title_it" : "Giardino / Fiori",
+  "parent_category_id" : 11
+}, {
+  "category_id" : 787,
+  "title_de" : "Line Dance",
+  "title_en" : "Line Dance",
+  "title_fr" : "Line Dance",
+  "title_it" : "Line Dance",
+  "parent_category_id" : 499
+}, {
+  "category_id" : 791,
+  "title_de" : "Gemeinsam essen",
+  "title_en" : "Eat together",
+  "title_fr" : "Manger ensemble",
+  "title_it" : "Mangiare insieme",
+  "parent_category_id" : 631
+}, {
+  "category_id" : 795,
+  "title_de" : "Objektkunst",
+  "title_en" : "Object Art",
+  "title_fr" : "Art d'objets",
+  "title_it" : "Arte del oggetto",
+  "parent_category_id" : 563
+}, {
+  "category_id" : 799,
+  "title_de" : "Rat & Tat für Kinder / Jugendliche",
+  "title_en" : "Advice / support for children / young people",
+  "title_fr" : "Aide pour les enfants / jeunes",
+  "title_it" : "Sostegno per i bambini / giovani",
+  "parent_category_id" : 651
+}, {
+  "category_id" : 803,
+  "title_de" : "Blasmusik / Brassband",
+  "title_en" : "Wind Music / Brass Band",
+  "title_fr" : "Fanfare / Brass Band",
+  "title_it" : "Brass Band",
+  "parent_category_id" : 751
+}, {
+  "category_id" : 807,
+  "title_de" : "Ambient / Electronica",
+  "title_en" : "Ambient",
+  "title_fr" : "Ambient",
+  "title_it" : "Ambient",
+  "parent_category_id" : 779
+}, {
+  "category_id" : 811,
+  "title_de" : "Information",
+  "title_en" : "Information",
+  "title_fr" : "Information",
+  "title_it" : "Informazioni",
+  "parent_category_id" : 431
+}, {
+  "category_id" : 815,
+  "title_de" : "Wort / Literatur",
+  "title_en" : "Word / Literature",
+  "title_fr" : "Word / Littérature",
+  "title_it" : "Word / Letteratura",
+  "parent_category_id" : 11
+}, {
+  "category_id" : 819,
+  "title_de" : "Orientalischer Tanz",
+  "title_en" : "Oriental dance",
+  "title_fr" : "Danse orientale",
+  "title_it" : "Danza Orientale",
+  "parent_category_id" : 499
+}, {
+  "category_id" : 823,
+  "title_de" : "Gemeinsam kochen / backen",
+  "title_en" : "Cooking / baking together",
+  "title_fr" : "Cuisinier ensemble",
+  "title_it" : "Cottura insieme",
+  "parent_category_id" : 631
+}, {
+  "category_id" : 827,
+  "title_de" : "Rat & Tat für Männer",
+  "title_en" : "Advice / support for men",
+  "title_fr" : "Aide pour les hommes",
+  "title_it" : "Sostegno per gli uomini",
+  "parent_category_id" : 651
+}, {
+  "category_id" : 831,
+  "title_de" : "Feldmusik",
+  "title_en" : "Field Music",
+  "title_fr" : "Fanfare / \"Feldmusik\"",
+  "title_it" : "Feldmusik",
+  "parent_category_id" : 751
+}, {
+  "category_id" : 835,
+  "title_de" : "Jungbürgerfeier",
+  "title_en" : "Celebration of young citizens",
+  "title_fr" : "Fête de jeunes citoyens",
+  "title_it" : "Celebrazione dei giovani cittadini",
+  "parent_category_id" : 431
+}, {
+  "category_id" : 839,
+  "title_de" : "Drum and Bass / Breakbeat",
+  "title_en" : "Drum and Bass / Breakbeat",
+  "title_fr" : "Drum and Bass / Breakbeat",
+  "title_it" : "Drum and Bass / Breakbeat",
+  "parent_category_id" : 779
+}, {
+  "category_id" : 843,
+  "title_de" : "Piercing / Tattoo",
+  "title_en" : "Piercing / Tattoo",
+  "title_fr" : "Piercing / Tattoo",
+  "title_it" : "Piercing / Tattoo",
+  "parent_category_id" : 563
+}, {
+  "category_id" : 847,
+  "title_de" : "Weitere Ausstellungen",
+  "title_en" : "Other exhibitions",
+  "title_fr" : "Autres expositions",
+  "title_it" : "Altre mostre",
+  "parent_category_id" : 11
+}, {
+  "category_id" : 851,
+  "title_de" : "Rock'n'Roll",
+  "title_en" : "Rock'n'Roll",
+  "title_fr" : "Rock'n'Roll",
+  "title_it" : "Rock'n'Roll",
+  "parent_category_id" : 499
+}, {
+  "category_id" : 855,
+  "title_de" : "Weinkunde / Weinpräsentation",
+  "title_en" : "Oenology",
+  "title_fr" : "Oenologie / présentation du vin",
+  "title_it" : "Enologia",
+  "parent_category_id" : 631
+}, {
+  "category_id" : 859,
+  "title_de" : "Militärmusik / Tattoo",
+  "title_en" : "Military / Tattoo",
+  "title_fr" : "Fanfare militaire / Tattoo",
+  "title_it" : "Militare / Tattoo",
+  "parent_category_id" : 751
+}, {
+  "category_id" : 863,
+  "title_de" : "Neuzuzüger Information / Apéro",
+  "title_en" : "Newcomers information / Drinks",
+  "title_fr" : "Les nouveaux arrivants d'information / Boissons",
+  "title_it" : "I nuovi arrivati informazioni / Bevande",
+  "parent_category_id" : 431
+}, {
+  "category_id" : 867,
+  "title_de" : "Elektro",
+  "title_en" : "Electronic",
+  "title_fr" : "Electronic",
+  "title_it" : "Elettronica",
+  "parent_category_id" : 779
+}, {
+  "category_id" : 871,
+  "title_de" : "Rat & Tat für Minderheiten und Migranten",
+  "title_en" : "Advice / support for minorities and immigrants",
+  "title_fr" : "Aide pour les minorités & les immigrés",
+  "title_it" : "Sostegno per le minoranze & gli immigrati",
+  "parent_category_id" : 651
+}, {
+  "category_id" : 875,
+  "title_de" : "Werken",
+  "title_en" : "Handiwork",
+  "title_fr" : "Bosser",
+  "title_it" : "Lavorare a casa (bricolage)",
+  "parent_category_id" : 563
+}, {
+  "category_id" : 879,
+  "title_de" : "Museum",
+  "title_en" : "Museums & Attractions",
+  "title_fr" : "Musées & attractions",
+  "title_it" : "Musei & Monumenti",
+  "parent_category_id" : null
+}, {
+  "category_id" : 883,
+  "title_de" : "Salsa",
+  "title_en" : "Salsa",
+  "title_fr" : "Salsa",
+  "title_it" : "Salsa",
+  "parent_category_id" : 499
+}, {
+  "category_id" : 887,
+  "title_de" : "Steelband",
+  "title_en" : "Steelband",
+  "title_fr" : "Steelband",
+  "title_it" : "Steelband",
+  "parent_category_id" : 751
+}, {
+  "category_id" : 891,
+  "title_de" : "House",
+  "title_en" : "House",
+  "title_fr" : "House",
+  "title_it" : "House",
+  "parent_category_id" : 779
+}, {
+  "category_id" : 895,
+  "title_de" : "Weitere Angebote Kochen, Essen / Degustieren",
+  "title_en" : "More cooking, food / taste ads",
+  "title_fr" : "Autres offres Cuisine, manger / dégustation",
+  "title_it" : "Altre offerte di Cottura, cibo / degustazione",
+  "parent_category_id" : 631
+}, {
+  "category_id" : 899,
+  "title_de" : "Rat & Tat für Paare / Familien",
+  "title_en" : "Advice / support for couples / families",
+  "title_fr" : "Aide pour les couples / familles",
+  "title_it" : "Sostegno per le coppie / famiglie",
+  "parent_category_id" : 651
+}, {
+  "category_id" : 903,
+  "title_de" : "Museumsführung",
+  "title_en" : "Museum tour",
+  "title_fr" : "Visite muséal",
+  "title_it" : "Visita guidata del Museo",
+  "parent_category_id" : 879
+}, {
+  "category_id" : 907,
+  "title_de" : "Weitere Angebote Objektkunst",
+  "title_en" : "More design ads",
+  "title_fr" : "Autres offres design",
+  "title_it" : "Altre offerte design",
+  "parent_category_id" : 563
+}, {
+  "category_id" : 911,
+  "title_de" : "Tango",
+  "title_en" : "Tango Argentino",
+  "title_fr" : "Tango Argentino",
+  "title_it" : "Tango Argentino",
+  "parent_category_id" : 499
+}, {
+  "category_id" : 915,
+  "title_de" : "Parlamentarische Sitzung",
+  "title_en" : "Parliamentary Session",
+  "title_fr" : "Session parlementaire",
+  "title_it" : "Sessione parlamentare",
+  "parent_category_id" : 431
+}, {
+  "category_id" : 919,
+  "title_de" : "Tambouren",
+  "title_en" : "Drummers",
+  "title_fr" : "Tambours",
+  "title_it" : "Tamburo",
+  "parent_category_id" : 751
+}, {
+  "category_id" : 923,
+  "title_de" : "Walzer",
+  "title_en" : "Waltz",
+  "title_fr" : "Waltz",
+  "title_it" : "Valzer",
+  "parent_category_id" : 499
+}, {
+  "category_id" : 927,
+  "title_de" : "Religion / Spiritualität",
+  "title_en" : "Religion & Spirituality",
+  "title_fr" : "Religion & Spirituality",
+  "title_it" : "Religione & spiritualità",
+  "parent_category_id" : null
+}, {
+  "category_id" : 931,
+  "title_de" : "Industrial / Noise",
+  "title_en" : "Industrial / Noise",
+  "title_fr" : "Industrial / Noise",
+  "title_it" : "Industrial / Noise",
+  "parent_category_id" : 779
+}, {
+  "category_id" : 935,
+  "title_de" : "Weitere Museum & Sehenswürdigkeiten",
+  "title_en" : "Other museum & attraction",
+  "title_fr" : "Autre musée & attraction",
+  "title_it" : "Oltre museo & monumento",
+  "parent_category_id" : 879
+}, {
+  "category_id" : 939,
+  "title_de" : "Rat & Tat für Senioren",
+  "title_en" : "Advice / support for seniors",
+  "title_fr" : "Aide pour les personnes âgées",
+  "title_it" : "Sostegno per gli anziani",
+  "parent_category_id" : 651
+}, {
+  "category_id" : 943,
+  "title_de" : "Weitere Angebote Kunst",
+  "title_en" : "More art ads",
+  "title_fr" : "Autres offres art",
+  "title_it" : "Altre offerte di Arte",
+  "parent_category_id" : 23
+}, {
+  "category_id" : 947,
+  "title_de" : "Gesangsmusik & Chor",
+  "title_en" : "Vocal & Choral Music",
+  "title_fr" : "Chant & musique chorale",
+  "title_it" : "Canto & musica chorale",
+  "parent_category_id" : 567
+}, {
+  "category_id" : 951,
+  "title_de" : "Gottesdienst",
+  "title_en" : "Worship",
+  "title_fr" : "Messe",
+  "title_it" : "Messa",
+  "parent_category_id" : 927
+}, {
+  "category_id" : 955,
+  "title_de" : "Weiterer Tanz",
+  "title_en" : "More dance styles",
+  "title_fr" : "Autres styles de danse",
+  "title_it" : "Stili di danza di più",
+  "parent_category_id" : 499
+}, {
+  "category_id" : 959,
+  "title_de" : "Schule & Ausbildung",
+  "title_en" : "Schools & Education",
+  "title_fr" : "Ecoles & éducation",
+  "title_it" : "Scuola & istruzione",
+  "parent_category_id" : 431
+}, {
+  "category_id" : 963,
+  "title_de" : "Techno",
+  "title_en" : "Techno",
+  "title_fr" : "Techno",
+  "title_it" : "Techno",
+  "parent_category_id" : 779
+}, {
+  "category_id" : 967,
+  "title_de" : "Party",
+  "title_en" : "Party",
+  "title_fr" : "Fête",
+  "title_it" : "Festa",
+  "parent_category_id" : null
+}, {
+  "category_id" : 971,
+  "title_de" : "Christentum",
+  "title_en" : "Christianity",
+  "title_fr" : "Christianisme",
+  "title_it" : "Cristianesimo",
+  "parent_category_id" : 951
+}, {
+  "category_id" : 975,
+  "title_de" : "Freiwilliges Helfen",
+  "title_en" : "Volunteer Help",
+  "title_fr" : "Aide bénévole",
+  "title_it" : "Aiuto volontari",
+  "parent_category_id" : 615
+}, {
+  "category_id" : 979,
+  "title_de" : "Aufführung Tanzschule",
+  "title_en" : "Dance School Performance",
+  "title_fr" : "Représentation d'une école de danse",
+  "title_it" : "Saggio di una scuola di danza",
+  "parent_category_id" : 447
+}, {
+  "category_id" : 983,
+  "title_de" : "A cappella",
+  "title_en" : "A cappella",
+  "title_fr" : "A cappella",
+  "title_it" : "A cappella",
+  "parent_category_id" : 947
+}, {
+  "category_id" : 987,
+  "title_de" : "Führung",
+  "title_en" : "Sightseeing & city tour",
+  "title_fr" : "Visites & tours de cité",
+  "title_it" : "Visita & giro della città",
+  "parent_category_id" : null
+}, {
+  "category_id" : 991,
+  "title_de" : "Afterwork Party",
+  "title_en" : "Afterwork Party",
+  "title_fr" : "Afterwork Party",
+  "title_it" : "Afterwork Party",
+  "parent_category_id" : 967
+}, {
+  "category_id" : 995,
+  "title_de" : "Jazz, Blues & Funk",
+  "title_en" : "Jazz, Blues & Funk",
+  "title_fr" : "Jazz, Blues & Funk",
+  "title_it" : "Jazz, Blues & Funk",
+  "parent_category_id" : 27
+}, {
+  "category_id" : 999,
+  "title_de" : "Betriebsbesichtigung geführt",
+  "title_en" : "Guided tour of a crafts plant",
+  "title_fr" : "Visite guidée de l'entreprise",
+  "title_it" : "Visita guidata dell'azienda",
+  "parent_category_id" : 987
+}, {
+  "category_id" : 1003,
+  "title_de" : "Besuchstag",
+  "title_en" : "Day of visit",
+  "title_fr" : "Jour de visite",
+  "title_it" : "Giorno di visita",
+  "parent_category_id" : 959
+}, {
+  "category_id" : 1007,
+  "title_de" : "Ausdruckstanz",
+  "title_en" : "Free Dance",
+  "title_fr" : "Danse Libre",
+  "title_it" : "Danza libera",
+  "parent_category_id" : 447
+}, {
+  "category_id" : 1011,
+  "title_de" : "Après-Ski",
+  "title_en" : "Après-Ski",
+  "title_fr" : "Après-Ski",
+  "title_it" : "Après-Ski",
+  "parent_category_id" : 967
+}, {
+  "category_id" : 1015,
+  "title_de" : "Gemeinschaftspflege",
+  "title_en" : "Community Care",
+  "title_fr" : "Communité",
+  "title_it" : "Comunione",
+  "parent_category_id" : 615
+}, {
+  "category_id" : 1019,
+  "title_de" : "Evangelisch-reformierter Gottesdienst",
+  "title_en" : "Evangelical Reformed Worship",
+  "title_fr" : "Messe évangélique réformée",
+  "title_it" : "Messa evangelico riformato",
+  "parent_category_id" : 971
+}, {
+  "category_id" : 1023,
+  "title_de" : "Blues",
+  "title_en" : "Blues",
+  "title_fr" : "Blues",
+  "title_it" : "Blues",
+  "parent_category_id" : 995
+}, {
+  "category_id" : 1027,
+  "title_de" : "Chormusik",
+  "title_en" : "Choral Music",
+  "title_fr" : "Musique chorale",
+  "title_it" : "Musica chorale",
+  "parent_category_id" : 947
+}, {
+  "category_id" : 1031,
+  "title_de" : "Ball",
+  "title_en" : "Ball",
+  "title_fr" : "Bal",
+  "title_it" : "Ballo",
+  "parent_category_id" : 447
+}, {
+  "category_id" : 1035,
+  "title_de" : "Dorfführung",
+  "title_en" : "Village tour",
+  "title_fr" : "Visite guidée de village",
+  "title_it" : "Visita guidata del villaggio",
+  "parent_category_id" : 987
+}, {
+  "category_id" : 1039,
+  "title_de" : "Informationsveranstaltung",
+  "title_en" : "Informative meeting",
+  "title_fr" : "Réunion d'information",
+  "title_it" : "Riunione d'informazione",
+  "parent_category_id" : 959
+}, {
+  "category_id" : 1043,
+  "title_de" : "Mottoparty",
+  "title_en" : "More Theme Parties",
+  "title_fr" : "Plus Theme Parties",
+  "title_it" : "Tema più parti",
+  "parent_category_id" : 967
+}, {
+  "category_id" : 1047,
+  "title_de" : "Gottesdienst der Freikirche",
+  "title_en" : "Worship of the Free Church",
+  "title_fr" : "Messe de l'église libre",
+  "title_it" : "Messa della Chiesa libera",
+  "parent_category_id" : 971
+}, {
+  "category_id" : 1051,
+  "title_de" : "Funk",
+  "title_en" : "Funk",
+  "title_fr" : "Funk",
+  "title_it" : "Funk",
+  "parent_category_id" : 995
+}, {
+  "category_id" : 1055,
+  "title_de" : "Kinderbetreuung",
+  "title_en" : "Childcare",
+  "title_fr" : "Garde d'enfants",
+  "title_it" : "Cura dei bambini",
+  "parent_category_id" : 615
+}, {
+  "category_id" : 1059,
+  "title_de" : "Lieder",
+  "title_en" : "Songs",
+  "title_fr" : "Chansons",
+  "title_it" : "Canzone",
+  "parent_category_id" : 947
+}, {
+  "category_id" : 1063,
+  "title_de" : "Ballett",
+  "title_en" : "Ballet",
+  "title_fr" : "Ballet",
+  "title_it" : "Danza classica",
+  "parent_category_id" : 447
+}, {
+  "category_id" : 1067,
+  "title_de" : "Weitere Anlässe der Schule",
+  "title_en" : "Other events at school",
+  "title_fr" : "Autres événements à l'école",
+  "title_it" : "Altri eventi a scuola",
+  "parent_category_id" : 959
+}, {
+  "category_id" : 1071,
+  "title_de" : "Exkursion",
+  "title_en" : "Excursion",
+  "title_fr" : "Excursion",
+  "title_it" : "Escursione",
+  "parent_category_id" : 987
+}, {
+  "category_id" : 1075,
+  "title_de" : "Jazz",
+  "title_en" : "Jazz",
+  "title_fr" : "Jazz",
+  "title_it" : "Jazz",
+  "parent_category_id" : 995
+}, {
+  "category_id" : 1079,
+  "title_de" : "Bauchtanz",
+  "title_en" : "Bellydance",
+  "title_fr" : "Danse du ventre",
+  "title_it" : "Danza del ventre",
+  "parent_category_id" : 447
+}, {
+  "category_id" : 1083,
+  "title_de" : "Stimmkunst / Vocal",
+  "title_en" : "Vocal art",
+  "title_fr" : "Art Vocal",
+  "title_it" : "Vocal arte",
+  "parent_category_id" : 947
+}, {
+  "category_id" : 1087,
+  "title_de" : "Ökumenischer Gottesdienst",
+  "title_en" : "Oecumenic mass",
+  "title_fr" : "Messe oecuménique",
+  "title_it" : "Messa ecumenico",
+  "parent_category_id" : 971
+}, {
+  "category_id" : 1091,
+  "title_de" : "Pop & Partytunes",
+  "title_en" : "Pop",
+  "title_fr" : "Pop",
+  "title_it" : "Pop",
+  "parent_category_id" : 967
+}, {
+  "category_id" : 1095,
+  "title_de" : "Treffen / Versammlung",
+  "title_en" : "Meeting / Assembly",
+  "title_fr" : "Réunion / Assemblée",
+  "title_it" : "Meeting / Assemblea",
+  "parent_category_id" : 431
+}, {
+  "category_id" : 1099,
+  "title_de" : "Quartieranlass / Ortsvereinsanlass",
+  "title_en" : "Local association's event",
+  "title_fr" : "Évenement d'une association locale",
+  "title_it" : "Evento di una associazione locale",
+  "parent_category_id" : 615
+}, {
+  "category_id" : 1103,
+  "title_de" : "Spirituelle Musik",
+  "title_en" : "Spiritual Music",
+  "title_fr" : "Musique spirituelle",
+  "title_it" : "Musica spirituale",
+  "parent_category_id" : 567
+}, {
+  "category_id" : 1107,
+  "title_de" : "Swing",
+  "title_en" : "Swing",
+  "title_fr" : "Swing",
+  "title_it" : "Swing",
+  "parent_category_id" : 995
+}, {
+  "category_id" : 1111,
+  "title_de" : "Modern Dance",
+  "title_en" : "Modern dance",
+  "title_fr" : "Danse moderne",
+  "title_it" : "Danza moderna",
+  "parent_category_id" : 447
+}, {
+  "category_id" : 1115,
+  "title_de" : "Stadtführung",
+  "title_en" : "City tour",
+  "title_fr" : "Visite guidée de ville",
+  "title_it" : "Visita guidata della città",
+  "parent_category_id" : 987
+}, {
+  "category_id" : 1119,
+  "title_de" : "Pop allgemein",
+  "title_en" : "Pop generally",
+  "title_fr" : "Pop en générale",
+  "title_it" : "Pop generalmente",
+  "parent_category_id" : 1091
+}, {
+  "category_id" : 1123,
+  "title_de" : "Römisch-katholischer Gottesdienst",
+  "title_en" : "Roman Catholic Mass",
+  "title_fr" : "Messe catholique romaine",
+  "title_it" : "Messa catolica romana",
+  "parent_category_id" : 971
+}, {
+  "category_id" : 1127,
+  "title_de" : "Weitere Angebote",
+  "title_en" : "More ads",
+  "title_fr" : "Autres offres",
+  "title_it" : "Altre offerte",
+  "parent_category_id" : 431
+}, {
+  "category_id" : 1131,
+  "title_de" : "Andere Spirituelle Musik",
+  "title_en" : "Other Spiritual Music",
+  "title_fr" : "Autre musique spirituelle",
+  "title_it" : "Altri musica spirituale",
+  "parent_category_id" : 1103
+}, {
+  "category_id" : 1135,
+  "title_de" : "Stadtrundgang",
+  "title_en" : "City stroll",
+  "title_fr" : "Tour de la ville",
+  "title_it" : "Tour della città",
+  "parent_category_id" : 987
+}, {
+  "category_id" : 1139,
+  "title_de" : "Performance (Tanz)",
+  "title_en" : "Performance (dance)",
+  "title_fr" : "Performance (danse)",
+  "title_it" : "Performance (danza)",
+  "parent_category_id" : 447
+}, {
+  "category_id" : 1143,
+  "title_de" : "Weitere Angebote Zusammenleben",
+  "title_en" : "More relations ads",
+  "title_fr" : "Autre offre relations",
+  "title_it" : "Altre offerte relazioni",
+  "parent_category_id" : 615
+}, {
+  "category_id" : 1147,
+  "title_de" : "Dies & Das",
+  "title_en" : "This and that",
+  "title_fr" : "Ceci et cela",
+  "title_it" : "Questo e quello",
+  "parent_category_id" : null
+}, {
+  "category_id" : 1151,
+  "title_de" : "Christliche Musik",
+  "title_en" : "Christian Music",
+  "title_fr" : "Musique chrétienne",
+  "title_it" : "Christian Music",
+  "parent_category_id" : 1103
+}, {
+  "category_id" : 1155,
+  "title_de" : "Weitere Führung / Besichtigung",
+  "title_en" : "Other tour / sightseeing",
+  "title_fr" : "Autre tour / visite",
+  "title_it" : "Oltre tour / visite turistiche",
+  "parent_category_id" : 987
+}, {
+  "category_id" : 1159,
+  "title_de" : "Film",
+  "title_en" : "Film",
+  "title_fr" : "Film",
+  "title_it" : "Film",
+  "parent_category_id" : 1147
+}, {
+  "category_id" : 1163,
+  "title_de" : "Steptanz",
+  "title_en" : "Tap Dancing",
+  "title_fr" : "Tap Dancing",
+  "title_it" : "Tip-tap",
+  "parent_category_id" : 447
+}, {
+  "category_id" : 1167,
+  "title_de" : "Sport",
+  "title_en" : "Sports",
+  "title_fr" : "Sports",
+  "title_it" : "Sport",
+  "parent_category_id" : null
+}, {
+  "category_id" : 1171,
+  "title_de" : "Gospel",
+  "title_en" : "Gospel",
+  "title_fr" : "Gospel",
+  "title_it" : "Gospel",
+  "parent_category_id" : 1103
+}, {
+  "category_id" : 1175,
+  "title_de" : "Konzert Klassik",
+  "title_en" : "Classical concert",
+  "title_fr" : "Concert de la musique classique",
+  "title_it" : "Concerto di musica classica",
+  "parent_category_id" : null
+}, {
+  "category_id" : 1179,
+  "title_de" : "2000er Party",
+  "title_en" : "2000s Party",
+  "title_fr" : "2000s Party",
+  "title_it" : "2000s Party",
+  "parent_category_id" : 1091
+}, {
+  "category_id" : 1183,
+  "title_de" : "Weitere Gottesdienste",
+  "title_en" : "Other services",
+  "title_fr" : "Autres services",
+  "title_it" : "Altri servizi",
+  "parent_category_id" : 971
+}, {
+  "category_id" : 1187,
+  "title_de" : "Filmfestival",
+  "title_en" : "Movie festival",
+  "title_fr" : "Féstival du film",
+  "title_it" : "Film festival",
+  "parent_category_id" : 1159
+}, {
+  "category_id" : 1191,
+  "title_de" : "Streetdance",
+  "title_en" : "Street Dance",
+  "title_fr" : "Street Dance",
+  "title_it" : "Street Dance",
+  "parent_category_id" : 447
+}, {
+  "category_id" : 1195,
+  "title_de" : "Meditationsmusik",
+  "title_en" : "Meditation Music",
+  "title_fr" : "Musique méditative",
+  "title_it" : "Musica meditativa",
+  "parent_category_id" : 1103
+}, {
+  "category_id" : 1199,
+  "title_de" : "Sport",
+  "title_en" : "Sports",
+  "title_fr" : "Sports",
+  "title_it" : "Sport",
+  "parent_category_id" : 1167
+}, {
+  "category_id" : 1203,
+  "title_de" : "Barock",
+  "title_en" : "Baroque",
+  "title_fr" : "Baroque",
+  "title_it" : "Barocco",
+  "parent_category_id" : 1175
+}, {
+  "category_id" : 1207,
+  "title_de" : "Wirtschaft",
+  "title_en" : "Economy",
+  "title_fr" : "Économie",
+  "title_it" : "Economia",
+  "parent_category_id" : null
+}, {
+  "category_id" : 1211,
+  "title_de" : "60s Party",
+  "title_en" : "60s Party",
+  "title_fr" : "60s Party",
+  "title_it" : "60s Party",
+  "parent_category_id" : 1091
+}, {
+  "category_id" : 1215,
+  "title_de" : "Christentum",
+  "title_en" : "Christianity",
+  "title_fr" : "Christianisme",
+  "title_it" : "Cristianesimo",
+  "parent_category_id" : 927
+}, {
+  "category_id" : 1219,
+  "title_de" : "Tanzfestival",
+  "title_en" : "Dance Festival",
+  "title_fr" : "Festival de danse",
+  "title_it" : "Festival di danza",
+  "parent_category_id" : 447
+}, {
+  "category_id" : 1223,
+  "title_de" : "Welt- & Folkmusik",
+  "title_en" : "World & Other Music",
+  "title_fr" : "World musique & autre",
+  "title_it" : "World musica & altri",
+  "parent_category_id" : 567
+}, {
+  "category_id" : 1227,
+  "title_de" : "Kammermusik",
+  "title_en" : "Chamber Music",
+  "title_fr" : "Musique de chambre",
+  "title_it" : "Musica da Camera",
+  "parent_category_id" : 1175
+}, {
+  "category_id" : 1231,
+  "title_de" : "Allgemeines Angebot Christentum",
+  "title_en" : "General offer Christianity",
+  "title_fr" : "Générale offre christianisme",
+  "title_it" : "Offerta generale Cristianesimo",
+  "parent_category_id" : 1215
+}, {
+  "category_id" : 1235,
+  "title_de" : "Betriebsbesichtigung",
+  "title_en" : "Plant tour",
+  "title_fr" : "Visite de l'entreprise",
+  "title_it" : "Visita dell'azienda",
+  "parent_category_id" : 1207
+}, {
+  "category_id" : 1239,
+  "title_de" : "70s Party",
+  "title_en" : "70s Party",
+  "title_fr" : "70s Party",
+  "title_it" : "70s Party",
+  "parent_category_id" : 1091
+}, {
+  "category_id" : 1243,
+  "title_de" : "Ballsport",
+  "title_en" : "Ball Sports",
+  "title_fr" : "Sports de balle",
+  "title_it" : "Sport con la Palla",
+  "parent_category_id" : 1199
+}, {
+  "category_id" : 1247,
+  "title_de" : "Afrikanische Musik",
+  "title_en" : "African Music",
+  "title_fr" : "African Music",
+  "title_it" : "African Music",
+  "parent_category_id" : 1223
+}, {
+  "category_id" : 1251,
+  "title_de" : "Tanz-Show",
+  "title_en" : "Dance show",
+  "title_fr" : "Spectacle de danse",
+  "title_it" : "Spettacolo di danza",
+  "parent_category_id" : 447
+}, {
+  "category_id" : 1255,
+  "title_de" : "Filmvorführung",
+  "title_en" : "Film Screening",
+  "title_fr" : "Projection du film",
+  "title_it" : "Proiezione cinematografica",
+  "parent_category_id" : 1159
+}, {
+  "category_id" : 1259,
+  "title_de" : "Akkordeon",
+  "title_en" : "Accordion",
+  "title_fr" : "Accordéon",
+  "title_it" : "Fisarmonica",
+  "parent_category_id" : 1223
+}, {
+  "category_id" : 1263,
+  "title_de" : "Kirchenmusik",
+  "title_en" : "Church music",
+  "title_fr" : "Musique déglise",
+  "title_it" : "Musica di chiesa",
+  "parent_category_id" : 1175
+}, {
+  "category_id" : 1267,
+  "title_de" : "Business Networking",
+  "title_en" : "Business Networking",
+  "title_fr" : "Business Networking",
+  "title_it" : "Business Networking",
+  "parent_category_id" : 1207
+}, {
+  "category_id" : 1271,
+  "title_de" : "Badminton / Federball",
+  "title_en" : "Badminton / Shuttlecock",
+  "title_fr" : "Badminton / Volants",
+  "title_it" : "Badminton / volano",
+  "parent_category_id" : 1243
+}, {
+  "category_id" : 1275,
+  "title_de" : "80s Party",
+  "title_en" : "80s Party",
+  "title_fr" : "80s Party",
+  "title_it" : "80s Party",
+  "parent_category_id" : 1091
+}, {
+  "category_id" : 1279,
+  "title_de" : "Prozession",
+  "title_en" : "Procession",
+  "title_fr" : "Procession",
+  "title_it" : "Processione",
+  "parent_category_id" : 1215
+}, {
+  "category_id" : 1283,
+  "title_de" : "Tanzturnier",
+  "title_en" : "Dancing tournament",
+  "title_fr" : "Tournoi de danse",
+  "title_it" : "Torneo di danza",
+  "parent_category_id" : 447
+}, {
+  "category_id" : 1287,
+  "title_de" : "Open Air Film",
+  "title_en" : "Open Air Film",
+  "title_fr" : "Open Air Cinéma",
+  "title_it" : "Open Air Film",
+  "parent_category_id" : 1159
+}, {
+  "category_id" : 1291,
+  "title_de" : "Asiatische Musik",
+  "title_en" : "Asian Music",
+  "title_fr" : "Asian Music",
+  "title_it" : "Asian Music",
+  "parent_category_id" : 1223
+}, {
+  "category_id" : 1295,
+  "title_de" : "General- / Delegiertenversammlung (Verband / Firma)",
+  "title_en" : "Annual General / Delegates",
+  "title_fr" : "Assemblée générale annuelle / Delegates",
+  "title_it" : "Riunione generale",
+  "parent_category_id" : 1207
+}, {
+  "category_id" : 1299,
+  "title_de" : "90s Party",
+  "title_en" : "90s Party",
+  "title_fr" : "90s Party",
+  "title_it" : "90s Party",
+  "parent_category_id" : 1091
+}, {
+  "category_id" : 1303,
+  "title_de" : "Volkstanz",
+  "title_en" : "Folk",
+  "title_fr" : "Folk",
+  "title_it" : "Folk",
+  "parent_category_id" : 447
+}, {
+  "category_id" : 1307,
+  "title_de" : "Chanson / Musette",
+  "title_en" : "Chanson / Musette",
+  "title_fr" : "Chanson / Musette",
+  "title_it" : "Chanson / Musette",
+  "parent_category_id" : 1223
+}, {
+  "category_id" : 1311,
+  "title_de" : "Evangelisch-reformierter Glaube",
+  "title_en" : "Evangelical Reformed Faith",
+  "title_fr" : "Foi évangélique réformée",
+  "title_it" : "Fede evangelica riformata",
+  "parent_category_id" : 1215
+}, {
+  "category_id" : 1315,
+  "title_de" : "Klassik (allgemein)",
+  "title_en" : "Classical music",
+  "title_fr" : "Musique classique",
+  "title_it" : "Musica classica",
+  "parent_category_id" : 1175
+}, {
+  "category_id" : 1319,
+  "title_de" : "Basketball",
+  "title_en" : "Basketball",
+  "title_fr" : "Basket-ball",
+  "title_it" : "Basket",
+  "parent_category_id" : 1243
+}, {
+  "category_id" : 1323,
+  "title_de" : "Garten, Basteln & Do it yourself",
+  "title_en" : "Garden & Do It Yourself",
+  "title_fr" : "Jardin, Bricolage & Do It Yourself",
+  "title_it" : "Garden & Do It Yourself",
+  "parent_category_id" : 1147
+}, {
+  "category_id" : 1327,
+  "title_de" : "Gewerbeausstellung",
+  "title_en" : "Trade Exhibition",
+  "title_fr" : "Exposition commercielle",
+  "title_it" : "Esposizione commerciale",
+  "parent_category_id" : 1207
+}, {
+  "category_id" : 1331,
+  "title_de" : "Country",
+  "title_en" : "Country",
+  "title_fr" : "Country",
+  "title_it" : "Country",
+  "parent_category_id" : 1223
+}, {
+  "category_id" : 1335,
+  "title_de" : "Zeitgenössischer Tanz",
+  "title_en" : "Contemporary dance",
+  "title_fr" : "Danse contemporaine",
+  "title_it" : "Danza contemporanea",
+  "parent_category_id" : 447
+}, {
+  "category_id" : 1339,
+  "title_de" : "Aktuelle Charts",
+  "title_en" : "Current charts",
+  "title_fr" : "Hit-parade actuel",
+  "title_it" : "Hit-parade",
+  "parent_category_id" : 1091
+}, {
+  "category_id" : 1343,
+  "title_de" : "Klavier- / Orgelmusik",
+  "title_en" : "Piano / Organ Music",
+  "title_fr" : "Musique de piano / de l'orgue",
+  "title_it" : "Musica per piano / organo",
+  "parent_category_id" : 1175
+}, {
+  "category_id" : 1347,
+  "title_de" : "Freikirche",
+  "title_en" : "Free Church",
+  "title_fr" : "Église libre",
+  "title_it" : "Chiesa libera",
+  "parent_category_id" : 1215
+}, {
+  "category_id" : 1351,
+  "title_de" : "Beach Soccer",
+  "title_en" : "Beach Soccer",
+  "title_fr" : "Beach Soccer",
+  "title_it" : "Beach Soccer",
+  "parent_category_id" : 1243
+}, {
+  "category_id" : 1355,
+  "title_de" : "Kongress / Tagung",
+  "title_en" : "Congress",
+  "title_fr" : "Congrès",
+  "title_it" : "Congresso",
+  "parent_category_id" : 1207
+}, {
+  "category_id" : 1359,
+  "title_de" : "Experimentelle Musik / Klangkunst",
+  "title_en" : "Experimental",
+  "title_fr" : "Expérimental",
+  "title_it" : "Sperimentale",
+  "parent_category_id" : 1223
+}, {
+  "category_id" : 1363,
+  "title_de" : "Basteln",
+  "title_en" : "Tinker",
+  "title_fr" : "Bricolage",
+  "title_it" : "Bricolage",
+  "parent_category_id" : 1323
+}, {
+  "category_id" : 1367,
+  "title_de" : "Theater",
+  "title_en" : "Theatre",
+  "title_fr" : "Théatre",
+  "title_it" : "Teatro",
+  "parent_category_id" : 7
+}, {
+  "category_id" : 1371,
+  "title_de" : "Ökumenischer Glaube",
+  "title_en" : "Oecumenic faith",
+  "title_fr" : "Foi oecuménique",
+  "title_it" : "Fede ecumenica",
+  "parent_category_id" : 1215
+}, {
+  "category_id" : 1375,
+  "title_de" : "Moderne / Zeitgenössische E-Musik",
+  "title_en" : "Modern Classical music",
+  "title_fr" : "Musique classique modèrne",
+  "title_it" : "Musica classica moderna",
+  "parent_category_id" : 1175
+}, {
+  "category_id" : 1379,
+  "title_de" : "Classics",
+  "title_en" : "Classics",
+  "title_fr" : "Classics",
+  "title_it" : "Classics",
+  "parent_category_id" : 1091
+}, {
+  "category_id" : 1383,
+  "title_de" : "Folkmusic",
+  "title_en" : "Folk music",
+  "title_fr" : "Folk Music",
+  "title_it" : "Folk Music",
+  "parent_category_id" : 1223
+}, {
+  "category_id" : 1387,
+  "title_de" : "Beachvolleyball",
+  "title_en" : "Beach Volleyball",
+  "title_fr" : "Beach Volleyball",
+  "title_it" : "Beach Volley",
+  "parent_category_id" : 1243
+}, {
+  "category_id" : 1391,
+  "title_de" : "Do it yourself / Heimwerken",
+  "title_en" : "Do It Yourself / DIY",
+  "title_fr" : "Do It Yourself",
+  "title_it" : "Do It Yourself / Fai da te",
+  "parent_category_id" : 1323
+}, {
+  "category_id" : 1395,
+  "title_de" : "Wirtschafts-Vortrag / Podium",
+  "title_en" : "Lecture / podium",
+  "title_fr" : "Conférence / podium",
+  "title_it" : "Lezione / podio",
+  "parent_category_id" : 1207
+}, {
+  "category_id" : 1399,
+  "title_de" : "Wortkunst / Literatur",
+  "title_en" : "Word & Literature",
+  "title_fr" : "Littérature & paroles",
+  "title_it" : "Letteratura & parole",
+  "parent_category_id" : 7
+}, {
+  "category_id" : 1403,
+  "title_de" : "Deutsche Welle",
+  "title_en" : "Deutsche Welle",
+  "title_fr" : "Deutsche Welle",
+  "title_it" : "Deutsche Welle",
+  "parent_category_id" : 1091
+}, {
+  "category_id" : 1407,
+  "title_de" : "Jüdische Musik / Klezmer",
+  "title_en" : "Jewish Music / Klezmer",
+  "title_fr" : "Klezmer",
+  "title_it" : "Klezmer",
+  "parent_category_id" : 1223
+}, {
+  "category_id" : 1411,
+  "title_de" : "Römisch-katholischer Glaube",
+  "title_en" : "Roman Catholic Faith",
+  "title_fr" : "Foi catholique",
+  "title_it" : "Fede Cattolica Romana",
+  "parent_category_id" : 1215
+}, {
+  "category_id" : 1415,
+  "title_de" : "Romantik",
+  "title_en" : "Romance music",
+  "title_fr" : "Musique romantique",
+  "title_it" : "Musica romantica",
+  "parent_category_id" : 1175
+}, {
+  "category_id" : 1419,
+  "title_de" : "Workshop (Wirtschaftsthema)",
+  "title_en" : "Workshop",
+  "title_fr" : "Workshop",
+  "title_it" : "Workshop",
+  "parent_category_id" : 1207
+}, {
+  "category_id" : 1423,
+  "title_de" : "Faustball",
+  "title_en" : "Fistball",
+  "title_fr" : "Fistball",
+  "title_it" : "Fistball",
+  "parent_category_id" : 1243
+}, {
+  "category_id" : 1427,
+  "title_de" : "Garten / Blumen",
+  "title_en" : "Garden / Flower",
+  "title_fr" : "Jardin / fleurs",
+  "title_it" : "Giardion / fiori",
+  "parent_category_id" : 1323
+}, {
+  "category_id" : 1431,
+  "title_de" : "Buch / Literatur",
+  "title_en" : "Book / Literature",
+  "title_fr" : "Livre / littérature",
+  "title_it" : "Libro / letterature",
+  "parent_category_id" : 1399
+}, {
+  "category_id" : 1435,
+  "title_de" : "Latin",
+  "title_en" : "Latin",
+  "title_fr" : "Latin",
+  "title_it" : "Latino",
+  "parent_category_id" : 1223
+}, {
+  "category_id" : 1439,
+  "title_de" : "Disco",
+  "title_en" : "Disco",
+  "title_fr" : "Disco",
+  "title_it" : "Disco",
+  "parent_category_id" : 1091
+}, {
+  "category_id" : 1443,
+  "title_de" : "Weitere Veranstaltungen Beruf & Gewerbe ",
+  "title_en" : "More professional & trade events",
+  "title_fr" : "Autres événements professionnels & le commerce",
+  "title_it" : "Altri eventi commerciali & sviluppo economico",
+  "parent_category_id" : 1207
+}, {
+  "category_id" : 1447,
+  "title_de" : "Weitere christliche Konfessionen",
+  "title_en" : "Other christian denominations",
+  "title_fr" : "Autres confessions chrétiennes",
+  "title_it" : "Altre confessioni cristiane",
+  "parent_category_id" : 1215
+}, {
+  "category_id" : 1451,
+  "title_de" : "Comics",
+  "title_en" : "Comics",
+  "title_fr" : "Comics",
+  "title_it" : "Fumetti",
+  "parent_category_id" : 1399
+}, {
+  "category_id" : 1455,
+  "title_de" : "Symphonieorchester-Musik",
+  "title_en" : "Symphony orchestra",
+  "title_fr" : "Orchestre synphonique",
+  "title_it" : "Orchestra sinfonica",
+  "parent_category_id" : 1175
+}, {
+  "category_id" : 1459,
+  "title_de" : "Fussball",
+  "title_en" : "Football",
+  "title_fr" : "Football",
+  "title_it" : "Calcio",
+  "parent_category_id" : 1243
+}, {
+  "category_id" : 1463,
+  "title_de" : "Liedermacher / Singer-Songwriter",
+  "title_en" : "Singer-Songwriter",
+  "title_fr" : "Chansonnier",
+  "title_it" : "cantautore",
+  "parent_category_id" : 1223
+}, {
+  "category_id" : 1467,
+  "title_de" : "Karaoke",
+  "title_en" : "Karaoke",
+  "title_fr" : "Karaoke",
+  "title_it" : "Karaoke",
+  "parent_category_id" : 1091
+}, {
+  "category_id" : 1471,
+  "title_de" : "Hörspiel",
+  "title_en" : "Radio Play",
+  "title_fr" : "Pièce radiophonique",
+  "title_it" : "Radiocommedià",
+  "parent_category_id" : 1399
+}, {
+  "category_id" : 1475,
+  "title_de" : "Handarbeit / Nähen",
+  "title_en" : "Crafts / sewing",
+  "title_fr" : "L'artisanat / couture",
+  "title_it" : "Crafts / cucito",
+  "parent_category_id" : 1323
+}, {
+  "category_id" : 1479,
+  "title_de" : "Andere Glaubensrichtungen",
+  "title_en" : "Other faiths",
+  "title_fr" : "Autres confessions",
+  "title_it" : "Le altre confessioni",
+  "parent_category_id" : 927
+}, {
+  "category_id" : 1483,
+  "title_de" : "Vorbarocke Musik",
+  "title_en" : "Pre-baroque",
+  "title_fr" : "Pré-baroque",
+  "title_it" : "Pre-barocco",
+  "parent_category_id" : 1175
+}, {
+  "category_id" : 1487,
+  "title_de" : "Golf",
+  "title_en" : "Golf",
+  "title_fr" : "Golf",
+  "title_it" : "Golf",
+  "parent_category_id" : 1243
+}, {
+  "category_id" : 1491,
+  "title_de" : "Orientalische Musik",
+  "title_en" : "Oriental music",
+  "title_fr" : "Musique orientale",
+  "title_it" : "Musica orientale",
+  "parent_category_id" : 1223
+}, {
+  "category_id" : 1495,
+  "title_de" : "Lesung (literarisch)",
+  "title_en" : "Reading",
+  "title_fr" : "Lecture",
+  "title_it" : "Lettura",
+  "parent_category_id" : 1399
+}, {
+  "category_id" : 1499,
+  "title_de" : "Kerzenziehen",
+  "title_en" : "Make candles",
+  "title_fr" : "Faire de bougies",
+  "title_it" : "Fare dei candele",
+  "parent_category_id" : 1323
+}, {
+  "category_id" : 1503,
+  "title_de" : "Mash Up",
+  "title_en" : "Mash Up",
+  "title_fr" : "Mash Up",
+  "title_it" : "Mash Up",
+  "parent_category_id" : 1091
+}, {
+  "category_id" : 1507,
+  "title_de" : "Buddhismus",
+  "title_en" : "Buddhism",
+  "title_fr" : "Bouddhisme",
+  "title_it" : "Buddismo",
+  "parent_category_id" : 1479
+}, {
+  "category_id" : 1511,
+  "title_de" : "Osteuropäische Musik / Balkan",
+  "title_en" : "Eastern European Music / Balkans",
+  "title_fr" : "Musique de l'europe de l'est / Balkans",
+  "title_it" : "Musica del europa orientale / Balcani",
+  "parent_category_id" : 1223
+}, {
+  "category_id" : 1515,
+  "title_de" : "Märchenlesung / Geschichten",
+  "title_en" : "Fairytale / stories",
+  "title_fr" : "Conte / histoires",
+  "title_it" : "Favola / storie",
+  "parent_category_id" : 1399
+}, {
+  "category_id" : 1519,
+  "title_de" : "Handball",
+  "title_en" : "Handball",
+  "title_fr" : "Handball",
+  "title_it" : "Pallamano",
+  "parent_category_id" : 1243
+}, {
+  "category_id" : 1523,
+  "title_de" : "Gesundheit, Psychologie & Schönheit",
+  "title_en" : "Health, Psychology & Beauty",
+  "title_fr" : "Santé, psychologie & beauté",
+  "title_it" : "Salute, psicologia & Bellezza",
+  "parent_category_id" : 1147
+}, {
+  "category_id" : 1527,
+  "title_de" : "New Wave / Dark Wave",
+  "title_en" : "New Wave / Dark Wave",
+  "title_fr" : "New Wave / Dark Wave",
+  "title_it" : "New Wave / Dark Wave",
+  "parent_category_id" : 1091
+}, {
+  "category_id" : 1531,
+  "title_de" : "Spirituelle Richtungen",
+  "title_en" : "Spiritual direction",
+  "title_fr" : "Direction spirituelle",
+  "title_it" : "Direzione spirituale",
+  "parent_category_id" : 927
+}, {
+  "category_id" : 1535,
+  "title_de" : "Poesie / Gedicht",
+  "title_en" : "Poetry",
+  "title_fr" : "Poésie / Poèmes",
+  "title_it" : "Poesia",
+  "parent_category_id" : 1399
+}, {
+  "category_id" : 1539,
+  "title_de" : "Perkussion / Schlaginstrumente",
+  "title_en" : "Percussion / Drums",
+  "title_fr" : "Percussion / Batterie",
+  "title_it" : "Percussioni / batteria",
+  "parent_category_id" : 1223
+}, {
+  "category_id" : 1543,
+  "title_de" : "Hornussen",
+  "title_en" : "Hornussen",
+  "title_fr" : "Hornuss",
+  "title_it" : "Hornussen",
+  "parent_category_id" : 1243
+}, {
+  "category_id" : 1547,
+  "title_de" : "Oldies Party",
+  "title_en" : "60s Party",
+  "title_fr" : "60s Party",
+  "title_it" : "60s Party",
+  "parent_category_id" : 1091
+}, {
+  "category_id" : 1551,
+  "title_de" : "Beauty",
+  "title_en" : "Beauty",
+  "title_fr" : "Beauté",
+  "title_it" : "Bellezza",
+  "parent_category_id" : 1523
+}, {
+  "category_id" : 1555,
+  "title_de" : "Astrologie",
+  "title_en" : "Astrology",
+  "title_fr" : "Astrologie",
+  "title_it" : "Astrologia",
+  "parent_category_id" : 1531
+}, {
+  "category_id" : 1559,
+  "title_de" : "Weitere Angebote Wort / Literatur",
+  "title_en" : "More word / literature ads",
+  "title_fr" : "Autres offres littérature",
+  "title_it" : "Altre offerte parola / letteratura",
+  "parent_category_id" : 1399
+}, {
+  "category_id" : 1563,
+  "title_de" : "Squash",
+  "title_en" : "Squash",
+  "title_fr" : "Squash",
+  "title_it" : "Squash",
+  "parent_category_id" : 1243
+}, {
+  "category_id" : 1567,
+  "title_de" : "Tango",
+  "title_en" : "Tango",
+  "title_fr" : "Tango",
+  "title_it" : "Tango",
+  "parent_category_id" : 1223
+}, {
+  "category_id" : 1571,
+  "title_de" : "Partytunes",
+  "title_en" : "Partytunes",
+  "title_fr" : "Partytunes",
+  "title_it" : "Partytunes",
+  "parent_category_id" : 1091
+}, {
+  "category_id" : 1575,
+  "title_de" : "Esoterik",
+  "title_en" : "Esoterism",
+  "title_fr" : "Ésotérisme",
+  "title_it" : "Esoterismo",
+  "parent_category_id" : 1531
+}, {
+  "category_id" : 1579,
+  "title_de" : "Ernährung",
+  "title_en" : "Nutrition",
+  "title_fr" : "Nutrition",
+  "title_it" : "Nutrizione",
+  "parent_category_id" : 1523
+}, {
+  "category_id" : 1583,
+  "title_de" : "Zirkus & Zauber",
+  "title_en" : "Circus & magic",
+  "title_fr" : "Cirque & magie",
+  "title_it" : "Circo & magia",
+  "parent_category_id" : 7
+}, {
+  "category_id" : 1587,
+  "title_de" : "Weitere Weltmusik",
+  "title_en" : "Other world music",
+  "title_fr" : "Autre world music",
+  "title_it" : "Altri world music",
+  "parent_category_id" : 1223
+}, {
+  "category_id" : 1591,
+  "title_de" : "Tennis",
+  "title_en" : "Tennis",
+  "title_fr" : "Tennis",
+  "title_it" : "Tennis",
+  "parent_category_id" : 1243
+}, {
+  "category_id" : 1595,
+  "title_de" : "Schlagerparty",
+  "title_en" : "Schlagerparty",
+  "title_fr" : "Schlagerparty",
+  "title_it" : "Schlagerparty",
+  "parent_category_id" : 1091
+}, {
+  "category_id" : 1599,
+  "title_de" : "Gesundheit / Medizin",
+  "title_en" : "Health / Medicine",
+  "title_fr" : "Santé / Médecine",
+  "title_it" : "Salute / medicina",
+  "parent_category_id" : 1523
+}, {
+  "category_id" : 1603,
+  "title_de" : "Kontemplation / Meditation",
+  "title_en" : "Contemplation / Meditation",
+  "title_fr" : "Contemplation / Méditation",
+  "title_it" : "Contemplazione / meditazione",
+  "parent_category_id" : 1531
+}, {
+  "category_id" : 1607,
+  "title_de" : "Artistik",
+  "title_en" : "Artistry",
+  "title_fr" : "Acrobatie",
+  "title_it" : "Acrobatica",
+  "parent_category_id" : 1583
+}, {
+  "category_id" : 1611,
+  "title_de" : "Tischtennis",
+  "title_en" : "Table Tennis",
+  "title_fr" : "Tennis de table",
+  "title_it" : "Tennis da tavolo",
+  "parent_category_id" : 1243
+}, {
+  "category_id" : 1615,
+  "title_de" : "Weitere Angebote Musik",
+  "title_en" : "Other music ads",
+  "title_fr" : "Autres groupes de musique",
+  "title_it" : "Altri gruppi musicali",
+  "parent_category_id" : 567
+}, {
+  "category_id" : 1619,
+  "title_de" : "Trip-Hop",
+  "title_en" : "Trip-Hop",
+  "title_fr" : "Trip-Hop",
+  "title_it" : "Trip-Hop",
+  "parent_category_id" : 1091
+}, {
+  "category_id" : 1623,
+  "title_de" : "Psychologie / Meditation",
+  "title_en" : "Psychology / Meditation",
+  "title_fr" : "Psychology / Meditation",
+  "title_it" : "Psicologia / Meditazione",
+  "parent_category_id" : 1523
+}, {
+  "category_id" : 1627,
+  "title_de" : "Clownerei",
+  "title_en" : "Clownery",
+  "title_fr" : "Clownerie",
+  "title_it" : "Buffoneria",
+  "parent_category_id" : 1583
+}, {
+  "category_id" : 1631,
+  "title_de" : "Weitere Spirituelle Richtungen",
+  "title_en" : "Other spiritual directions",
+  "title_fr" : "Autres directions spirituelles",
+  "title_it" : "Altre Indicazioni Spiritual",
+  "parent_category_id" : 1531
+}, {
+  "category_id" : 1635,
+  "title_de" : "Volleyball",
+  "title_en" : "Volleyball",
+  "title_fr" : "Volley-ball",
+  "title_it" : "Pallavolo",
+  "parent_category_id" : 1243
+}, {
+  "category_id" : 1639,
+  "title_de" : "Ordnung, Schutz & Rettung",
+  "title_en" : "Order, protection & rescue",
+  "title_fr" : "Ordre, protection & sauvetage",
+  "title_it" : "Ordine, protezione & soccorso",
+  "parent_category_id" : 1147
+}, {
+  "category_id" : 1643,
+  "title_de" : "Zauberei",
+  "title_en" : "Magic",
+  "title_fr" : "Magie",
+  "title_it" : "Magia",
+  "parent_category_id" : 1583
+}, {
+  "category_id" : 1647,
+  "title_de" : "Weiterer Ballsport",
+  "title_en" : "Other ball sport",
+  "title_fr" : "Autre sport de balle",
+  "title_it" : "Altro sport con la palla",
+  "parent_category_id" : 1243
+}, {
+  "category_id" : 1651,
+  "title_de" : "Rock & Alternative",
+  "title_en" : "Rock",
+  "title_fr" : "Rock",
+  "title_it" : "Rock",
+  "parent_category_id" : 967
+}, {
+  "category_id" : 1655,
+  "title_de" : "Weitere Angebote Religion",
+  "title_en" : "More religion ads",
+  "title_fr" : "Autre offre la religion",
+  "title_it" : "Altre offerte religione",
+  "parent_category_id" : 927
+}, {
+  "category_id" : 1659,
+  "title_de" : "Blutspenden",
+  "title_en" : "Blood donating",
+  "title_fr" : "Don du sang",
+  "title_it" : "Donazione di sangue",
+  "parent_category_id" : 1639
+}, {
+  "category_id" : 1663,
+  "title_de" : "Zirkus",
+  "title_en" : "Circus",
+  "title_fr" : "Cirque",
+  "title_it" : "Circo",
+  "parent_category_id" : 1583
+}, {
+  "category_id" : 1667,
+  "title_de" : "Rock allgemein",
+  "title_en" : "Rock generally",
+  "title_fr" : "Rock en générale",
+  "title_it" : "Rock generalmente",
+  "parent_category_id" : 1651
+}, {
+  "category_id" : 1671,
+  "title_de" : "Fischen / Angeln",
+  "title_en" : "Fishing",
+  "title_fr" : "Pêche",
+  "title_it" : "Pesca",
+  "parent_category_id" : 1199
+}, {
+  "category_id" : 1675,
+  "title_de" : "Feuerwehr",
+  "title_en" : "Fire service",
+  "title_fr" : "Pompiers",
+  "title_it" : "Pompieri",
+  "parent_category_id" : 1639
+}, {
+  "category_id" : 1679,
+  "title_de" : "Alternative Rock",
+  "title_en" : "Alternative",
+  "title_fr" : "Altérnative",
+  "title_it" : "Alternativo",
+  "parent_category_id" : 1651
+}, {
+  "category_id" : 1683,
+  "title_de" : "Fliegen",
+  "title_en" : "Fly",
+  "title_fr" : "Voler",
+  "title_it" : "Volare",
+  "parent_category_id" : 1199
+}, {
+  "category_id" : 1687,
+  "title_de" : "Obligatorisch Schiessen",
+  "title_en" : "Mandatory Shooting",
+  "title_fr" : "Tir obligatoire",
+  "title_it" : "Realizzazine obbligatoria",
+  "parent_category_id" : 1639
+}, {
+  "category_id" : 1691,
+  "title_de" : "Crossover",
+  "title_en" : "Crossover",
+  "title_fr" : "Crossover",
+  "title_it" : "Crossover",
+  "parent_category_id" : 1651
+}, {
+  "category_id" : 1695,
+  "title_de" : "Rettung",
+  "title_en" : "Rescue",
+  "title_fr" : "Sauvetage",
+  "title_it" : "Salvataggio",
+  "parent_category_id" : 1639
+}, {
+  "category_id" : 1699,
+  "title_de" : "Ballonfahren",
+  "title_en" : "Ballooning",
+  "title_fr" : "Ballon à air chaud / gaz",
+  "title_it" : "Ballooning",
+  "parent_category_id" : 1683
+}, {
+  "category_id" : 1703,
+  "title_de" : "Gothic",
+  "title_en" : "Gothic",
+  "title_fr" : "Gotique",
+  "title_it" : "Gotico",
+  "parent_category_id" : 1651
+}, {
+  "category_id" : 1707,
+  "title_de" : "Samariter",
+  "title_en" : "Samaritans",
+  "title_fr" : "Samaritains",
+  "title_it" : "Samaritani",
+  "parent_category_id" : 1639
+}, {
+  "category_id" : 1711,
+  "title_de" : "Heavy Metal",
+  "title_en" : "Heavy Metal",
+  "title_fr" : "Heavy Metal",
+  "title_it" : "Heavy Metal",
+  "parent_category_id" : 1651
+}, {
+  "category_id" : 1715,
+  "title_de" : "Drachen / Gleitschirm",
+  "title_en" : "Hang / Paragliding",
+  "title_fr" : "Delta-plan / Parapente",
+  "title_it" : "Deltaplano / Parapendio",
+  "parent_category_id" : 1683
+}, {
+  "category_id" : 1719,
+  "title_de" : "Spiel & Denksport",
+  "title_en" : "Games & Brain Training",
+  "title_fr" : "Jeux & sport des pensées",
+  "title_it" : "Giochi & sport d'immaginazione",
+  "parent_category_id" : 1147
+}, {
+  "category_id" : 1723,
+  "title_de" : "Punk",
+  "title_en" : "Punk",
+  "title_fr" : "Punk",
+  "title_it" : "Punk",
+  "parent_category_id" : 1651
+}, {
+  "category_id" : 1727,
+  "title_de" : "Billard",
+  "title_en" : "Billiards",
+  "title_fr" : "Billard",
+  "title_it" : "Biliardo",
+  "parent_category_id" : 1719
+}, {
+  "category_id" : 1731,
+  "title_de" : "Helikopter",
+  "title_en" : "Helicopter",
+  "title_fr" : "Hélicoptère",
+  "title_it" : "Elicottero",
+  "parent_category_id" : 1683
+}, {
+  "category_id" : 1735,
+  "title_de" : "Rock'n'Roll",
+  "title_en" : "Rock'n'Roll",
+  "title_fr" : "Rock'n'Roll",
+  "title_it" : "Rock'n'Roll",
+  "parent_category_id" : 1651
+}, {
+  "category_id" : 1739,
+  "title_de" : "Boggia / Pétanque",
+  "title_en" : "Boggia / Petanque",
+  "title_fr" : "Boggia / pétanque",
+  "title_it" : "Boggia / Bocce",
+  "parent_category_id" : 1719
+}, {
+  "category_id" : 1743,
+  "title_de" : "Weiterer Flugsport",
+  "title_en" : "Other flying sports",
+  "title_fr" : "Autre sport de vol",
+  "title_it" : "Altro sport di volo",
+  "parent_category_id" : 1683
+}, {
+  "category_id" : 1747,
+  "title_de" : "Black Music & Urban",
+  "title_en" : "Urban Music",
+  "title_fr" : "Black Music & Urban",
+  "title_it" : "Black Music & Urban",
+  "parent_category_id" : 967
+}, {
+  "category_id" : 1751,
+  "title_de" : "Hockeysport",
+  "title_en" : "Hockey",
+  "title_fr" : "Hockey",
+  "title_it" : "Hockey",
+  "parent_category_id" : 1199
+}, {
+  "category_id" : 1755,
+  "title_de" : "Bowling",
+  "title_en" : "Bowling",
+  "title_fr" : "Bowling",
+  "title_it" : "Bowling",
+  "parent_category_id" : 1719
+}, {
+  "category_id" : 1759,
+  "title_de" : "Dancehall",
+  "title_en" : "Dancehall",
+  "title_fr" : "Dancehall",
+  "title_it" : "Dancehall",
+  "parent_category_id" : 1747
+}, {
+  "category_id" : 1763,
+  "title_de" : "Eishockey",
+  "title_en" : "Ice-Hockey",
+  "title_fr" : "Hockey sur glace",
+  "title_it" : "Hockey su ghiaccio",
+  "parent_category_id" : 1751
+}, {
+  "category_id" : 1767,
+  "title_de" : "Bridge",
+  "title_en" : "Bridge",
+  "title_fr" : "Bridge",
+  "title_it" : "Bridge",
+  "parent_category_id" : 1719
+}, {
+  "category_id" : 1771,
+  "title_de" : "Dub",
+  "title_en" : "Dub",
+  "title_fr" : "Dub",
+  "title_it" : "Dub",
+  "parent_category_id" : 1747
+}, {
+  "category_id" : 1775,
+  "title_de" : "Unihockey / Floorball",
+  "title_en" : "Hockey / floorball",
+  "title_fr" : "Hockey / Floorball",
+  "title_it" : "Hockey / floorball",
+  "parent_category_id" : 1751
+}, {
+  "category_id" : 1779,
+  "title_de" : "Geschicklichkeitsspiel",
+  "title_en" : "Skill Games",
+  "title_fr" : "Jeux de dexterité",
+  "title_it" : "Giochi d'abilità",
+  "parent_category_id" : 1719
+}, {
+  "category_id" : 1783,
+  "title_de" : "Hip-Hop",
+  "title_en" : "Hip-Hop",
+  "title_fr" : "Hip-Hop",
+  "title_it" : "Hip-Hop",
+  "parent_category_id" : 1747
+}, {
+  "category_id" : 1787,
+  "title_de" : "Kampfsport",
+  "title_en" : "Martial Arts",
+  "title_fr" : "Arts Martiaux",
+  "title_it" : "Martial Arts",
+  "parent_category_id" : 1199
+}, {
+  "category_id" : 1791,
+  "title_de" : "Gesellschaftsspiel",
+  "title_en" : "Board games",
+  "title_fr" : "Jeux de société",
+  "title_it" : "Giochi da tavolo",
+  "parent_category_id" : 1719
+}, {
+  "category_id" : 1795,
+  "title_de" : "Boxen",
+  "title_en" : "Boxing",
+  "title_fr" : "Boxe",
+  "title_it" : "Boxing",
+  "parent_category_id" : 1787
+}, {
+  "category_id" : 1799,
+  "title_de" : "Old School",
+  "title_en" : "Old School",
+  "title_fr" : "Old School",
+  "title_it" : "Old School",
+  "parent_category_id" : 1747
+}, {
+  "category_id" : 1803,
+  "title_de" : "Glücksspiel",
+  "title_en" : "Gambling",
+  "title_fr" : "Jeu de hazard",
+  "title_it" : "Gioco d'azzardo",
+  "parent_category_id" : 1719
+}, {
+  "category_id" : 1807,
+  "title_de" : "Hapkido",
+  "title_en" : "Hapkido",
+  "title_fr" : "Hapkido",
+  "title_it" : "Hapkido",
+  "parent_category_id" : 1787
+}, {
+  "category_id" : 1811,
+  "title_de" : "Jass",
+  "title_en" : "Jass",
+  "title_fr" : "Jass",
+  "title_it" : "Jass",
+  "parent_category_id" : 1719
+}, {
+  "category_id" : 1815,
+  "title_de" : "R'n'B",
+  "title_en" : "R'n'B",
+  "title_fr" : "R'n'B",
+  "title_it" : "R'n'B",
+  "parent_category_id" : 1747
+}, {
+  "category_id" : 1819,
+  "title_de" : "Karate",
+  "title_en" : "Karate",
+  "title_fr" : "Karaté",
+  "title_it" : "Karate",
+  "parent_category_id" : 1787
+}, {
+  "category_id" : 1823,
+  "title_de" : "Kegeln",
+  "title_en" : "Bowling (9 pins)",
+  "title_fr" : "Bowling (9 quilles)",
+  "title_it" : "Bowling (9 birilli)",
+  "parent_category_id" : 1719
+}, {
+  "category_id" : 1827,
+  "title_de" : "Ragga",
+  "title_en" : "Ragga",
+  "title_fr" : "Ragga",
+  "title_it" : "Ragga",
+  "parent_category_id" : 1747
+}, {
+  "category_id" : 1831,
+  "title_de" : "Kickboxen",
+  "title_en" : "Kickboxing",
+  "title_fr" : "Kickboxing",
+  "title_it" : "Kickboxing",
+  "parent_category_id" : 1787
+}, {
+  "category_id" : 1835,
+  "title_de" : "Lotto",
+  "title_en" : "Lotto",
+  "title_fr" : "Lotto",
+  "title_it" : "Lotto",
+  "parent_category_id" : 1719
+}, {
+  "category_id" : 1839,
+  "title_de" : "Rap",
+  "title_en" : "Rap",
+  "title_fr" : "Rap",
+  "title_it" : "Rap",
+  "parent_category_id" : 1747
+}, {
+  "category_id" : 1843,
+  "title_de" : "Ringen",
+  "title_en" : "Wrestling",
+  "title_fr" : "Lutte",
+  "title_it" : "Lotta",
+  "parent_category_id" : 1787
+}, {
+  "category_id" : 1847,
+  "title_de" : "PC- / LAN Games",
+  "title_en" : "PC / LAN games",
+  "title_fr" : "Jeu PC / LAN",
+  "title_it" : "Gioco PC / LAN",
+  "parent_category_id" : 1719
+}, {
+  "category_id" : 1851,
+  "title_de" : "Reggae",
+  "title_en" : "Reggae",
+  "title_fr" : "Reggae",
+  "title_it" : "Reggae",
+  "parent_category_id" : 1747
+}, {
+  "category_id" : 1855,
+  "title_de" : "Schwingen",
+  "title_en" : "Schwingen",
+  "title_fr" : "Schwingen",
+  "title_it" : "Schwingen",
+  "parent_category_id" : 1787
+}, {
+  "category_id" : 1859,
+  "title_de" : "Poker",
+  "title_en" : "Poker",
+  "title_fr" : "Poker",
+  "title_it" : "Poker",
+  "parent_category_id" : 1719
+}, {
+  "category_id" : 1863,
+  "title_de" : "Reggaeton",
+  "title_en" : "Reggaeton",
+  "title_fr" : "Reggaeton",
+  "title_it" : "Reggaeton",
+  "parent_category_id" : 1747
+}, {
+  "category_id" : 1867,
+  "title_de" : "Schach",
+  "title_en" : "Chess",
+  "title_fr" : "Echecs",
+  "title_it" : "Scacchi",
+  "parent_category_id" : 1719
+}, {
+  "category_id" : 1871,
+  "title_de" : "Tai Chi",
+  "title_en" : "Tai Chi",
+  "title_fr" : "Tai Chi",
+  "title_it" : "Tai Chi",
+  "parent_category_id" : 1787
+}, {
+  "category_id" : 1875,
+  "title_de" : "Rocksteady",
+  "title_en" : "Rocksteady",
+  "title_fr" : "Rocksteady",
+  "title_it" : "Rocksteady",
+  "parent_category_id" : 1747
+}, {
+  "category_id" : 1879,
+  "title_de" : "Snooker",
+  "title_en" : "Snooker",
+  "title_fr" : "Snooker",
+  "title_it" : "Snooker",
+  "parent_category_id" : 1719
+}, {
+  "category_id" : 1883,
+  "title_de" : "Weitere Angebote Spiel / Denksport",
+  "title_en" : "More fun / brain ads",
+  "title_fr" : "Autres offres Jeux / sport des pensées",
+  "title_it" : "Altre offerte di Giochi / sport d'immaginazione",
+  "parent_category_id" : 1719
+}, {
+  "category_id" : 1887,
+  "title_de" : "Ska",
+  "title_en" : "Ska",
+  "title_fr" : "Ska",
+  "title_it" : "Ska",
+  "parent_category_id" : 1747
+}, {
+  "category_id" : 1891,
+  "title_de" : "Studium",
+  "title_en" : "Studies",
+  "title_fr" : "Etudes",
+  "title_it" : "Studi",
+  "parent_category_id" : 1147
+}, {
+  "category_id" : 1895,
+  "title_de" : "Weiterer Kampfsport",
+  "title_en" : "More martial arts",
+  "title_fr" : "Autres arts martiaux",
+  "title_it" : "Altri sport di battaglio",
+  "parent_category_id" : 1787
+}, {
+  "category_id" : 1899,
+  "title_de" : "Soul",
+  "title_en" : "Soul",
+  "title_fr" : "Soul",
+  "title_it" : "Soul",
+  "parent_category_id" : 1747
+}, {
+  "category_id" : 1903,
+  "title_de" : "Kegel- & Kugelsport",
+  "title_en" : "Cone & Bowl Sports",
+  "title_fr" : "Sports de boule & quille",
+  "title_it" : "Sport con bilia & birillo",
+  "parent_category_id" : 1199
+}, {
+  "category_id" : 1907,
+  "title_de" : "Tier",
+  "title_en" : "Animal",
+  "title_fr" : "Animal",
+  "title_it" : "Animali",
+  "parent_category_id" : 1147
+}, {
+  "category_id" : 1911,
+  "title_de" : "Trap",
+  "title_en" : "Trap",
+  "title_fr" : "Trap",
+  "title_it" : "Trap",
+  "parent_category_id" : 1747
+}, {
+  "category_id" : 1915,
+  "title_de" : "Amphibium / Reptilie",
+  "title_en" : "Amphibian / reptile",
+  "title_fr" : "Amphibiens / reptiles",
+  "title_it" : "Anfibio / rettile",
+  "parent_category_id" : 1907
+}, {
+  "category_id" : 1919,
+  "title_de" : "Klettern",
+  "title_en" : "Climbing",
+  "title_fr" : "Escalade",
+  "title_it" : "Arrampicata",
+  "parent_category_id" : 1199
+}, {
+  "category_id" : 1923,
+  "title_de" : "Urban",
+  "title_en" : "Urban",
+  "title_fr" : "Urban",
+  "title_it" : "Urban",
+  "parent_category_id" : 1747
+}, {
+  "category_id" : 1927,
+  "title_de" : "Biene",
+  "title_en" : "Bee",
+  "title_fr" : "Abeille",
+  "title_it" : "Ape",
+  "parent_category_id" : 1907
+}, {
+  "category_id" : 1931,
+  "title_de" : "Alpinklettern",
+  "title_en" : "Alpine climbing",
+  "title_fr" : "Alpinisme",
+  "title_it" : "Alpinismo",
+  "parent_category_id" : 1919
+}, {
+  "category_id" : 1935,
+  "title_de" : "Elektronische Musik & Techno",
+  "title_en" : "Electronic music & techno",
+  "title_fr" : "Musique électronique & techno",
+  "title_it" : "Musica elettronica & techno",
+  "parent_category_id" : 967
+}, {
+  "category_id" : 1939,
+  "title_de" : "Geflügel",
+  "title_en" : "Poultry",
+  "title_fr" : "Volaille",
+  "title_it" : "Pollame",
+  "parent_category_id" : 1907
+}, {
+  "category_id" : 1943,
+  "title_de" : "Bergsteigen",
+  "title_en" : "Mountain climbing",
+  "title_fr" : "Escalade de montagne",
+  "title_it" : "Arrampicata di montagne",
+  "parent_category_id" : 1919
+}, {
+  "category_id" : 1947,
+  "title_de" : "Ambient / Electronica",
+  "title_en" : "Ambient",
+  "title_fr" : "Ambient",
+  "title_it" : "Ambient",
+  "parent_category_id" : 1935
+}, {
+  "category_id" : 1951,
+  "title_de" : "Hund",
+  "title_en" : "Dog",
+  "title_fr" : "Chien",
+  "title_it" : "Cane",
+  "parent_category_id" : 1907
+}, {
+  "category_id" : 1955,
+  "title_de" : "Bouldern",
+  "title_en" : "Bouldering",
+  "title_fr" : "Bouldering",
+  "title_it" : "Bouldering",
+  "parent_category_id" : 1919
+}, {
+  "category_id" : 1959,
+  "title_de" : "Big Beatz",
+  "title_en" : "Big Beatz",
+  "title_fr" : "Big Beatz",
+  "title_it" : "Big Beatz",
+  "parent_category_id" : 1935
+}, {
+  "category_id" : 1963,
+  "title_de" : "Kaninchen",
+  "title_en" : "Rabbits",
+  "title_fr" : "Lapins",
+  "title_it" : "Conigli",
+  "parent_category_id" : 1907
+}, {
+  "category_id" : 1967,
+  "title_de" : "Eisklettern",
+  "title_en" : "Ice Climbing",
+  "title_fr" : "Escalade sur glace",
+  "title_it" : "Arrampicata su ghiaccio",
+  "parent_category_id" : 1919
+}, {
+  "category_id" : 1971,
+  "title_de" : "Chillout",
+  "title_en" : "Chillout",
+  "title_fr" : "Chillout",
+  "title_it" : "Chillout",
+  "parent_category_id" : 1935
+}, {
+  "category_id" : 1975,
+  "title_de" : "Katze",
+  "title_en" : "Cat",
+  "title_fr" : "Chat",
+  "title_it" : "Gatto",
+  "parent_category_id" : 1907
+}, {
+  "category_id" : 1979,
+  "title_de" : "Dance",
+  "title_en" : "Dance",
+  "title_fr" : "Dance",
+  "title_it" : "Dance",
+  "parent_category_id" : 1935
+}, {
+  "category_id" : 1983,
+  "title_de" : "Sportklettern",
+  "title_en" : "Sport Climbing",
+  "title_fr" : "Escalade sportif",
+  "title_it" : "Arrampicata sportiva",
+  "parent_category_id" : 1919
+}, {
+  "category_id" : 1987,
+  "title_de" : "Nutzvieh",
+  "title_en" : "Livestock",
+  "title_fr" : "Bétail",
+  "title_it" : "Bestiame",
+  "parent_category_id" : 1907
+}, {
+  "category_id" : 1991,
+  "title_de" : "Kraftsport",
+  "title_en" : "Athletic sport",
+  "title_fr" : "Athlétisme pesante",
+  "title_it" : "Atletica pesante",
+  "parent_category_id" : 1199
+}, {
+  "category_id" : 1995,
+  "title_de" : "Drum and Bass",
+  "title_en" : "Drum and Bass / Breakbeat",
+  "title_fr" : "Drum and Bass / Breakbeat",
+  "title_it" : "Drum and Bass / Breakbeat",
+  "parent_category_id" : 1935
+}, {
+  "category_id" : 1999,
+  "title_de" : "Pferd",
+  "title_en" : "Horse",
+  "title_fr" : "Cheval",
+  "title_it" : "Cavallo",
+  "parent_category_id" : 1907
+}, {
+  "category_id" : 2003,
+  "title_de" : "Krafttraining",
+  "title_en" : "Power training",
+  "title_fr" : "Entraînemt de force",
+  "title_it" : "Allenamento di forza",
+  "parent_category_id" : 1991
+}, {
+  "category_id" : 2007,
+  "title_de" : "House",
+  "title_en" : "House",
+  "title_fr" : "House",
+  "title_it" : "House",
+  "parent_category_id" : 1935
+}, {
+  "category_id" : 2011,
+  "title_de" : "Strongman",
+  "title_en" : "Strongman",
+  "title_fr" : "Strongman",
+  "title_it" : "Strongman",
+  "parent_category_id" : 1991
+}, {
+  "category_id" : 2015,
+  "title_de" : "Vögel",
+  "title_en" : "Birds",
+  "title_fr" : "Oiseaux",
+  "title_it" : "Uccelli",
+  "parent_category_id" : 1907
+}, {
+  "category_id" : 2019,
+  "title_de" : "House",
+  "title_en" : "House",
+  "title_fr" : "House",
+  "title_it" : "House",
+  "parent_category_id" : 2007
+}, {
+  "category_id" : 2023,
+  "title_de" : "Laufen & Wandern",
+  "title_en" : "Running & Walking",
+  "title_fr" : "Cours à pied & trekking",
+  "title_it" : "Corsa & escursionismo",
+  "parent_category_id" : 1199
+}, {
+  "category_id" : 2027,
+  "title_de" : "Wild",
+  "title_en" : "Game animals",
+  "title_fr" : "Gibier",
+  "title_it" : "Selvaggina",
+  "parent_category_id" : 1907
+}, {
+  "category_id" : 2031,
+  "title_de" : "Club",
+  "title_en" : "Club",
+  "title_fr" : "Club",
+  "title_it" : "Club",
+  "parent_category_id" : 2007
+}, {
+  "category_id" : 2035,
+  "title_de" : "Tierschutz",
+  "title_en" : "Animal protection",
+  "title_fr" : "Protection de l'animal",
+  "title_it" : "Protezzione degli animali",
+  "parent_category_id" : 1907
+}, {
+  "category_id" : 2039,
+  "title_de" : "Berglauf",
+  "title_en" : "Mountain Course",
+  "title_fr" : "Cours de montagne",
+  "title_it" : "Corso di montagne",
+  "parent_category_id" : 2023
+}, {
+  "category_id" : 2043,
+  "title_de" : "Deep House",
+  "title_en" : "Deep House",
+  "title_fr" : "Deep House",
+  "title_it" : "Deep House",
+  "parent_category_id" : 2007
+}, {
+  "category_id" : 2047,
+  "title_de" : "Jogging",
+  "title_en" : "Jogging",
+  "title_fr" : "Jogging",
+  "title_it" : "Jogging",
+  "parent_category_id" : 2023
+}, {
+  "category_id" : 2051,
+  "title_de" : "Weitere Angebote Tier",
+  "title_en" : "More animal ads",
+  "title_fr" : "Autres offres d'animaux",
+  "title_it" : "Altre offerte per animali",
+  "parent_category_id" : 1907
+}, {
+  "category_id" : 2055,
+  "title_de" : "Electro",
+  "title_en" : "Electro",
+  "title_fr" : "Electro",
+  "title_it" : "Electro",
+  "parent_category_id" : 2007
+}, {
+  "category_id" : 2059,
+  "title_de" : "Lauf",
+  "title_en" : "Running",
+  "title_fr" : "Cours à pied",
+  "title_it" : "Corso",
+  "parent_category_id" : 2023
+}, {
+  "category_id" : 2063,
+  "title_de" : "Verkehr & Fahrzeug",
+  "title_en" : "Traffic & Vehicles",
+  "title_fr" : "Trafic & véhicules",
+  "title_it" : "Traffico & veicoli",
+  "parent_category_id" : 1147
+}, {
+  "category_id" : 2067,
+  "title_de" : "Funky House",
+  "title_en" : "Funky House",
+  "title_fr" : "Funky House",
+  "title_it" : "Funky House",
+  "parent_category_id" : 2007
+}, {
+  "category_id" : 2071,
+  "title_de" : "Marathon / Halbmarathon / Ultramarathon",
+  "title_en" : "Marathon / Half Marathon / Ultra Marathon",
+  "title_fr" : "Marathon / Semi / Marathon Ultra Marathon",
+  "title_it" : "Maratona / Mezza Maratona / Marathon Ultra",
+  "parent_category_id" : 2023
+}, {
+  "category_id" : 2075,
+  "title_de" : "Auto",
+  "title_en" : "Car",
+  "title_fr" : "Voiture",
+  "title_it" : "Automobile",
+  "parent_category_id" : 2063
+}, {
+  "category_id" : 2079,
+  "title_de" : "Lounge",
+  "title_en" : "Lounge",
+  "title_fr" : "Lounge",
+  "title_it" : "Lounge",
+  "parent_category_id" : 2007
+}, {
+  "category_id" : 2083,
+  "title_de" : "Orientierungslauf",
+  "title_en" : "Orienteering",
+  "title_fr" : "Course d'orientation",
+  "title_it" : "Corso d'orientazione",
+  "parent_category_id" : 2023
+}, {
+  "category_id" : 2087,
+  "title_de" : "Fahrrad",
+  "title_en" : "Bicycle",
+  "title_fr" : "Vélos",
+  "title_it" : "Biciclette",
+  "parent_category_id" : 2063
+}, {
+  "category_id" : 2091,
+  "title_de" : "Schneeschuhwandern",
+  "title_en" : "Snowshoeing",
+  "title_fr" : "Raquette",
+  "title_it" : "Racchette da neve",
+  "parent_category_id" : 2023
+}, {
+  "category_id" : 2095,
+  "title_de" : "Luftfahrt",
+  "title_en" : "Aviation",
+  "title_fr" : "Aviation",
+  "title_it" : "Aviazione",
+  "parent_category_id" : 2063
+}, {
+  "category_id" : 2099,
+  "title_de" : "Techhouse",
+  "title_en" : "Techhouse",
+  "title_fr" : "Techhouse",
+  "title_it" : "Techhouse",
+  "parent_category_id" : 2007
+}, {
+  "category_id" : 2103,
+  "title_de" : "Waffenlauf",
+  "title_en" : "Gun course",
+  "title_fr" : "Cours à fusil",
+  "title_it" : "Corso a fucile",
+  "parent_category_id" : 2023
+}, {
+  "category_id" : 2107,
+  "title_de" : "Motorrad",
+  "title_en" : "Motorcycle",
+  "title_fr" : "Moto",
+  "title_it" : "Moto",
+  "parent_category_id" : 2063
+}, {
+  "category_id" : 2111,
+  "title_de" : "Vocal House",
+  "title_en" : "Vocal House",
+  "title_fr" : "Vocal House",
+  "title_it" : "Vocal House",
+  "parent_category_id" : 2007
+}, {
+  "category_id" : 2115,
+  "title_de" : "Nautik / Schiff / Boot",
+  "title_en" : "Nautic / Ship / Boat",
+  "title_fr" : "Nautique / Bateau",
+  "title_it" : "Nautica / Barca",
+  "parent_category_id" : 2063
+}, {
+  "category_id" : 2119,
+  "title_de" : "Walking",
+  "title_en" : "Walking",
+  "title_fr" : "Walking",
+  "title_it" : "Walking",
+  "parent_category_id" : 2023
+}, {
+  "category_id" : 2123,
+  "title_de" : "Jungle",
+  "title_en" : "Jungle",
+  "title_fr" : "Jungle",
+  "title_it" : "Jungle",
+  "parent_category_id" : 1935
+}, {
+  "category_id" : 2127,
+  "title_de" : "Wandern",
+  "title_en" : "Hiking",
+  "title_fr" : "Trekking",
+  "title_it" : "Escursionismo",
+  "parent_category_id" : 2023
+}, {
+  "category_id" : 2131,
+  "title_de" : "Techno",
+  "title_en" : "Techno",
+  "title_fr" : "Techno",
+  "title_it" : "Techno",
+  "parent_category_id" : 1935
+}, {
+  "category_id" : 2135,
+  "title_de" : "Nutzfahrzeuge",
+  "title_en" : "Commercial Vehicles",
+  "title_fr" : "Véhicules commerciaux",
+  "title_it" : "Veicoli commerciali",
+  "parent_category_id" : 2063
+}, {
+  "category_id" : 2139,
+  "title_de" : "Techno",
+  "title_en" : "Techno",
+  "title_fr" : "Techno",
+  "title_it" : "Techno",
+  "parent_category_id" : 2131
+}, {
+  "category_id" : 2143,
+  "title_de" : "Leichtathletik",
+  "title_en" : "Athletics",
+  "title_fr" : "Athlétisme",
+  "title_it" : "Atletica leggera",
+  "parent_category_id" : 1199
+}, {
+  "category_id" : 2147,
+  "title_de" : "Schienenverkehr",
+  "title_en" : "Rail vehicle",
+  "title_fr" : "Véhicule férroviaire",
+  "title_it" : "Veicoli su rotaie",
+  "parent_category_id" : 2063
+}, {
+  "category_id" : 2151,
+  "title_de" : "Acid",
+  "title_en" : "Acid",
+  "title_fr" : "Acid",
+  "title_it" : "Acid",
+  "parent_category_id" : 2131
+}, {
+  "category_id" : 2155,
+  "title_de" : "Weitere Fahrzeuge",
+  "title_en" : "Other vehicles",
+  "title_fr" : "Autres véhicules",
+  "title_it" : "Altri Veicoli",
+  "parent_category_id" : 2063
+}, {
+  "category_id" : 2159,
+  "title_de" : "Mehrkampfsport",
+  "title_en" : "Multi-Sports",
+  "title_fr" : "Poli-Sports",
+  "title_it" : "Sport polisportifo",
+  "parent_category_id" : 1199
+}, {
+  "category_id" : 2163,
+  "title_de" : "Minimal",
+  "title_en" : "Minimal",
+  "title_fr" : "Minimal",
+  "title_it" : "Minimal",
+  "parent_category_id" : 2131
+}, {
+  "category_id" : 2167,
+  "title_de" : "Biathlon",
+  "title_en" : "Biathlon",
+  "title_fr" : "Biathlon",
+  "title_it" : "Biathlon",
+  "parent_category_id" : 2159
+}, {
+  "category_id" : 2171,
+  "title_de" : "Wissen, Informatik & Umwelt",
+  "title_en" : "Knowledge, computer science & environment",
+  "title_fr" : "Connaissances, Informatique & environnement",
+  "title_it" : "Conoscenza, Informatica & ambiente",
+  "parent_category_id" : 1147
+}, {
+  "category_id" : 2175,
+  "title_de" : "Trance & Progressive",
+  "title_en" : "Trance & Progressive",
+  "title_fr" : "Trance & Progressive",
+  "title_it" : "Trance & Progressive",
+  "parent_category_id" : 1935
+}, {
+  "category_id" : 2179,
+  "title_de" : "Gigathlon",
+  "title_en" : "Gigathlon",
+  "title_fr" : "Gigathlon",
+  "title_it" : "Gigathlon",
+  "parent_category_id" : 2159
+}, {
+  "category_id" : 2183,
+  "title_de" : "Abenteuerbericht / Reisebericht",
+  "title_en" : "Travelogue / Geography",
+  "title_fr" : "Carnet de route / d'aventure",
+  "title_it" : "Diario di viaggio / del avventura",
+  "parent_category_id" : 2171
+}, {
+  "category_id" : 2187,
+  "title_de" : "Trance",
+  "title_en" : "Trance",
+  "title_fr" : "Trance",
+  "title_it" : "Trance",
+  "parent_category_id" : 2175
+}, {
+  "category_id" : 2191,
+  "title_de" : "Archäologie",
+  "title_en" : "Archaeology",
+  "title_fr" : "Archéologie",
+  "title_it" : "Archeologia",
+  "parent_category_id" : 2171
+}, {
+  "category_id" : 2195,
+  "title_de" : "Nordische Kombination",
+  "title_en" : "Nordic Combined",
+  "title_fr" : "Combiné nordique",
+  "title_it" : "Combina nordica",
+  "parent_category_id" : 2159
+}, {
+  "category_id" : 2199,
+  "title_de" : "Hardstyle",
+  "title_en" : "Hardstyle",
+  "title_fr" : "Hardstyle",
+  "title_it" : "Hardstyle",
+  "parent_category_id" : 2175
+}, {
+  "category_id" : 2203,
+  "title_de" : "Triathlon",
+  "title_en" : "Triathlon",
+  "title_fr" : "Triathlon",
+  "title_it" : "Triathlon",
+  "parent_category_id" : 2159
+}, {
+  "category_id" : 2207,
+  "title_de" : "Astronomie",
+  "title_en" : "Astronomy",
+  "title_fr" : "Astronomie",
+  "title_it" : "Astronomia",
+  "parent_category_id" : 2171
+}, {
+  "category_id" : 2211,
+  "title_de" : "Hardtrance",
+  "title_en" : "Hardtrance",
+  "title_fr" : "Hardtrance",
+  "title_it" : "Hardtrance",
+  "parent_category_id" : 2175
+}, {
+  "category_id" : 2215,
+  "title_de" : "Motorsport (Strasse, Land)",
+  "title_en" : "Motorsport",
+  "title_fr" : "Motorsport",
+  "title_it" : "Motorsport",
+  "parent_category_id" : 1199
+}, {
+  "category_id" : 2219,
+  "title_de" : "Energie / Nachhaltigkeit",
+  "title_en" : "Energy / Sustainability",
+  "title_fr" : "Energie / Soutenabilité",
+  "title_it" : "Energia / Sostenibilità",
+  "parent_category_id" : 2171
+}, {
+  "category_id" : 2223,
+  "title_de" : "Progressive Trance",
+  "title_en" : "Progressive Trance",
+  "title_fr" : "Progressive Trance",
+  "title_it" : "Progressive Trance",
+  "parent_category_id" : 2175
+}, {
+  "category_id" : 2227,
+  "title_de" : "Erdwissenschaften / Geologie",
+  "title_en" : "Earth Sciences / Geology",
+  "title_fr" : "Sciences de la terre et géologie",
+  "title_it" : "Scienze della terra / geologia",
+  "parent_category_id" : 2171
+}, {
+  "category_id" : 2231,
+  "title_de" : "Automobil",
+  "title_en" : "Cars",
+  "title_fr" : "Automobile",
+  "title_it" : "Automobile",
+  "parent_category_id" : 2215
+}, {
+  "category_id" : 2235,
+  "title_de" : "Psytrance",
+  "title_en" : "Psytrance",
+  "title_fr" : "Psytrance",
+  "title_it" : "Psytrance",
+  "parent_category_id" : 2175
+}, {
+  "category_id" : 2239,
+  "title_de" : "Geschichte",
+  "title_en" : "History",
+  "title_fr" : "Histoire",
+  "title_it" : "Storia",
+  "parent_category_id" : 2171
+}, {
+  "category_id" : 2243,
+  "title_de" : "Rave",
+  "title_en" : "Rave",
+  "title_fr" : "Rave",
+  "title_it" : "Rave",
+  "parent_category_id" : 2175
+}, {
+  "category_id" : 2247,
+  "title_de" : "Autorennen",
+  "title_en" : "Car racing",
+  "title_fr" : "Course automobile",
+  "title_it" : "Gara automobilistica",
+  "parent_category_id" : 2231
+}, {
+  "category_id" : 2251,
+  "title_de" : "Gesellschaftsfragen",
+  "title_en" : "Society questions",
+  "title_fr" : "Demandes de société",
+  "title_it" : "Domande di società",
+  "parent_category_id" : 2171
+}, {
+  "category_id" : 2255,
+  "title_de" : "Remember Trance",
+  "title_en" : "Remember Trance",
+  "title_fr" : "Remember Trance",
+  "title_it" : "Remember Trance",
+  "parent_category_id" : 2175
+}, {
+  "category_id" : 2259,
+  "title_de" : "GLP / Slalom",
+  "title_en" : "GLP / Slalom",
+  "title_fr" : "GLP / Slalom",
+  "title_it" : "GLP / Slalom",
+  "parent_category_id" : 2231
+}, {
+  "category_id" : 2263,
+  "title_de" : "Informatik / Internet",
+  "title_en" : "Computer science / internet",
+  "title_fr" : "Informatique / internet",
+  "title_it" : "Informatica / internet",
+  "parent_category_id" : 2171
+}, {
+  "category_id" : 2267,
+  "title_de" : "Schranz",
+  "title_en" : "Schranz",
+  "title_fr" : "Schranz",
+  "title_it" : "Schranz",
+  "parent_category_id" : 2175
+}, {
+  "category_id" : 2271,
+  "title_de" : "Oldtimerveranstaltungen",
+  "title_en" : "Classic Car Events",
+  "title_fr" : "Classic Car Events",
+  "title_it" : "Classic Car Eventi",
+  "parent_category_id" : 2231
+}, {
+  "category_id" : 2275,
+  "title_de" : "Natur / Umwelt",
+  "title_en" : "Nature / Environment",
+  "title_fr" : "Nature / Environnement",
+  "title_it" : "Natura / Ambiente",
+  "parent_category_id" : 2171
+}, {
+  "category_id" : 2279,
+  "title_de" : "Jazz, Blues & Funk",
+  "title_en" : "Jazz, Blues & Funk",
+  "title_fr" : "Jazz, Blues & Funk",
+  "title_it" : "Jazz, Blues & Funk",
+  "parent_category_id" : 967
+}, {
+  "category_id" : 2283,
+  "title_de" : "Rallye",
+  "title_en" : "Rally",
+  "title_fr" : "Rallye",
+  "title_it" : "Rally",
+  "parent_category_id" : 2231
+}, {
+  "category_id" : 2287,
+  "title_de" : "Naturwissenschaften",
+  "title_en" : "Natual sciences",
+  "title_fr" : "Science naturelle",
+  "title_it" : "Scienze naturali",
+  "parent_category_id" : 2171
+}, {
+  "category_id" : 2291,
+  "title_de" : "Modellauto",
+  "title_en" : "Model Car",
+  "title_fr" : "Voiture miniature",
+  "title_it" : "Auto modello",
+  "parent_category_id" : 2215
+}, {
+  "category_id" : 2295,
+  "title_de" : "Philosophie",
+  "title_en" : "Philosophy",
+  "title_fr" : "Philosophie",
+  "title_it" : "Filosofia",
+  "parent_category_id" : 2171
+}, {
+  "category_id" : 2299,
+  "title_de" : "Blues",
+  "title_en" : "Blues",
+  "title_fr" : "Blues",
+  "title_it" : "Blues",
+  "parent_category_id" : 2279
+}, {
+  "category_id" : 2303,
+  "title_de" : "Motocross",
+  "title_en" : "Motocross",
+  "title_fr" : "Motocross",
+  "title_it" : "Motocross",
+  "parent_category_id" : 2215
+}, {
+  "category_id" : 2307,
+  "title_de" : "Recht",
+  "title_en" : "Laws",
+  "title_fr" : "Droit",
+  "title_it" : "Legge",
+  "parent_category_id" : 2171
+}, {
+  "category_id" : 2311,
+  "title_de" : "Funk",
+  "title_en" : "Funk",
+  "title_fr" : "Funk",
+  "title_it" : "Funk",
+  "parent_category_id" : 2279
+}, {
+  "category_id" : 2315,
+  "title_de" : "Strassen-Motorradsport",
+  "title_en" : "Road motorcycle racing",
+  "title_fr" : "Road Motorcycle Racing",
+  "title_it" : "Road Racing moto",
+  "parent_category_id" : 2215
+}, {
+  "category_id" : 2319,
+  "title_de" : "Schweiz / Geographie",
+  "title_en" : "Switzerland / Geography",
+  "title_fr" : "Suisse / Géographie",
+  "title_it" : "Svizzera / Geografia",
+  "parent_category_id" : 2171
+}, {
+  "category_id" : 2323,
+  "title_de" : "Jazz",
+  "title_en" : "Jazz",
+  "title_fr" : "Jazz",
+  "title_it" : "Jazz",
+  "parent_category_id" : 2279
+}, {
+  "category_id" : 2327,
+  "title_de" : "Technik / Technologie",
+  "title_en" : "Technology",
+  "title_fr" : "Technologie",
+  "title_it" : "Tecnologia",
+  "parent_category_id" : 2171
+}, {
+  "category_id" : 2331,
+  "title_de" : "Weiterer Motorsport",
+  "title_en" : "Other motorsports",
+  "title_fr" : "Autre sport au moteur",
+  "title_it" : "Altro motorsport",
+  "parent_category_id" : 2215
+}, {
+  "category_id" : 2335,
+  "title_de" : "Swing",
+  "title_en" : "Swing",
+  "title_fr" : "Swing",
+  "title_it" : "Swing",
+  "parent_category_id" : 2279
+}, {
+  "category_id" : 2339,
+  "title_de" : "Radsport",
+  "title_en" : "Cycling",
+  "title_fr" : "Cyclisme",
+  "title_it" : "Ciclismo",
+  "parent_category_id" : 1199
+}, {
+  "category_id" : 2343,
+  "title_de" : "Vortrag",
+  "title_en" : "Lecture",
+  "title_fr" : "Conférence",
+  "title_it" : "Lezione",
+  "parent_category_id" : 2171
+}, {
+  "category_id" : 2347,
+  "title_de" : "Welt- & Folkmusik",
+  "title_en" : "World & folk",
+  "title_fr" : "World & Folk",
+  "title_it" : "World & Folk",
+  "parent_category_id" : 967
+}, {
+  "category_id" : 2351,
+  "title_de" : "Weitere Angebote Wissen / Umwelt",
+  "title_en" : "More knowledge / environment ads",
+  "title_fr" : "Autres offres de connaissances / environnement",
+  "title_it" : "Altre offerte di conoscenza / ambiente",
+  "parent_category_id" : 2171
+}, {
+  "category_id" : 2355,
+  "title_de" : "BMX",
+  "title_en" : "BMX",
+  "title_fr" : "BMX",
+  "title_it" : "BMX",
+  "parent_category_id" : 2339
+}, {
+  "category_id" : 2359,
+  "title_de" : "Weitere Hobbys",
+  "title_en" : "More hobbies & events",
+  "title_fr" : "Autres hobbies & événements",
+  "title_it" : "Altri Hobby & Eventi",
+  "parent_category_id" : 1147
+}, {
+  "category_id" : 2363,
+  "title_de" : "Country",
+  "title_en" : "Country",
+  "title_fr" : "Country",
+  "title_it" : "Country",
+  "parent_category_id" : 2347
+}, {
+  "category_id" : 2367,
+  "title_de" : "Genealogie",
+  "title_en" : "Genealogy",
+  "title_fr" : "Généalogie",
+  "title_it" : "Genealogia",
+  "parent_category_id" : 2359
+}, {
+  "category_id" : 2371,
+  "title_de" : "Mountainbike",
+  "title_en" : "Mountain Bike",
+  "title_fr" : "Mountain Bike",
+  "title_it" : "Mountain Bike",
+  "parent_category_id" : 2339
+}, {
+  "category_id" : 2375,
+  "title_de" : "Folkmusic",
+  "title_en" : "Folk music",
+  "title_fr" : "Folk Music",
+  "title_it" : "Folk Music",
+  "parent_category_id" : 2347
+}, {
+  "category_id" : 2379,
+  "title_de" : "Rennrad",
+  "title_en" : "Racing Bike",
+  "title_fr" : "Vélo de course",
+  "title_it" : "Bicicletta da corso",
+  "parent_category_id" : 2339
+}, {
+  "category_id" : 2383,
+  "title_de" : "Modellbau / Modelleisenbahn",
+  "title_en" : "Model construction",
+  "title_fr" : "Construction modèle",
+  "title_it" : "Costruzione modello",
+  "parent_category_id" : 2359
+}, {
+  "category_id" : 2387,
+  "title_de" : "Klassik",
+  "title_en" : "Classical music",
+  "title_fr" : "Musique classique",
+  "title_it" : "Musica Classica",
+  "parent_category_id" : 2347
+}, {
+  "category_id" : 2391,
+  "title_de" : "Velofahren",
+  "title_en" : "Velo",
+  "title_fr" : "Velo",
+  "title_it" : "Velo",
+  "parent_category_id" : 2339
+}, {
+  "category_id" : 2395,
+  "title_de" : "Sammeln: Briefmarken / Philatelie",
+  "title_en" : "Collecting: Stamps / Philately",
+  "title_fr" : "Collectioner: Timbres / Philatélie",
+  "title_it" : "Collezionare: Francobolli / filatelia",
+  "parent_category_id" : 2359
+}, {
+  "category_id" : 2399,
+  "title_de" : "Latin",
+  "title_en" : "Latin",
+  "title_fr" : "Latin",
+  "title_it" : "Latino",
+  "parent_category_id" : 2347
+}, {
+  "category_id" : 2403,
+  "title_de" : "Rollsport / Rollski",
+  "title_en" : "Rolling sports / Roller skiing",
+  "title_fr" : "Sport en roulant / ski à roulettes",
+  "title_it" : "Sport rollante / Sci Roller",
+  "parent_category_id" : 1199
+}, {
+  "category_id" : 2407,
+  "title_de" : "Sammeln: Münzen",
+  "title_en" : "Collecting: Coins",
+  "title_fr" : "Collectioner: Pièces de monnaie",
+  "title_it" : "Collezionare: Monete",
+  "parent_category_id" : 2359
+}, {
+  "category_id" : 2411,
+  "title_de" : "Bachata",
+  "title_en" : "Bachata",
+  "title_fr" : "Bachata",
+  "title_it" : "Bachata",
+  "parent_category_id" : 2399
+}, {
+  "category_id" : 2415,
+  "title_de" : "Inline-Skating",
+  "title_en" : "Inline Skating",
+  "title_fr" : "Inline Skating",
+  "title_it" : "Inline Skating",
+  "parent_category_id" : 2403
+}, {
+  "category_id" : 2419,
+  "title_de" : "Sammeln: Weitere",
+  "title_en" : "Collecting: Other",
+  "title_fr" : "Collectioner: Autres",
+  "title_it" : "Collezionare: Altro",
+  "parent_category_id" : 2359
+}, {
+  "category_id" : 2423,
+  "title_de" : "Bossa Nova",
+  "title_en" : "Bossa Nova",
+  "title_fr" : "Bossa Nova",
+  "title_it" : "Bossa Nova",
+  "parent_category_id" : 2399
+}, {
+  "category_id" : 2427,
+  "title_de" : "Seifenkisten",
+  "title_en" : "Soapbox racing",
+  "title_fr" : "Caisse à savon",
+  "title_it" : "Carriolo",
+  "parent_category_id" : 2403
+}, {
+  "category_id" : 2431,
+  "title_de" : "Weitere Hobbys",
+  "title_en" : "Other hobbies",
+  "title_fr" : "Autres Loisirs",
+  "title_it" : "Altri Hobby",
+  "parent_category_id" : 2359
+}, {
+  "category_id" : 2435,
+  "title_de" : "Cha Cha Cha",
+  "title_en" : "Cha Cha Cha",
+  "title_fr" : "Cha Cha Cha",
+  "title_it" : "Cha Cha Cha",
+  "parent_category_id" : 2399
+}, {
+  "category_id" : 2439,
+  "title_de" : "Schiessen",
+  "title_en" : "Shooting",
+  "title_fr" : "Tir",
+  "title_it" : "Realizzazione",
+  "parent_category_id" : 1199
+}, {
+  "category_id" : 2443,
+  "title_de" : "Weitere Veranstaltungen",
+  "title_en" : "More events",
+  "title_fr" : "Autres événements",
+  "title_it" : "Altri eventi",
+  "parent_category_id" : 1147
+}, {
+  "category_id" : 2447,
+  "title_de" : "Latin",
+  "title_en" : "Latin",
+  "title_fr" : "Latin",
+  "title_it" : "Latino",
+  "parent_category_id" : 2399
+}, {
+  "category_id" : 2451,
+  "title_de" : "Bogenschiessen",
+  "title_en" : "Archery",
+  "title_fr" : "Tir à l'arc",
+  "title_it" : "Tiro con l'arco",
+  "parent_category_id" : 2439
+}, {
+  "category_id" : 2455,
+  "title_de" : "Mambo",
+  "title_en" : "Mambo",
+  "title_fr" : "Mambo",
+  "title_it" : "Mambo",
+  "parent_category_id" : 2399
+}, {
+  "category_id" : 2459,
+  "title_de" : "Lang- & Kurzwaffen",
+  "title_en" : "Long & short weapons",
+  "title_fr" : "Armes longues & courtes",
+  "title_it" : "Armi longhi & corte",
+  "parent_category_id" : 2439
+}, {
+  "category_id" : 2463,
+  "title_de" : "Merengue",
+  "title_en" : "Merengue",
+  "title_fr" : "Merengue",
+  "title_it" : "Merengue",
+  "parent_category_id" : 2399
+}, {
+  "category_id" : 2467,
+  "title_de" : "Schützen",
+  "title_en" : "Shooting",
+  "title_fr" : "Buteurs",
+  "title_it" : "Realizzazione",
+  "parent_category_id" : 2459
+}, {
+  "category_id" : 2471,
+  "title_de" : "Salsa",
+  "title_en" : "Salsa",
+  "title_fr" : "Salsa",
+  "title_it" : "Salsa",
+  "parent_category_id" : 2399
+}, {
+  "category_id" : 2475,
+  "title_de" : "Tiersport",
+  "title_en" : "Animal Sports",
+  "title_fr" : "Sport avec des animaux",
+  "title_it" : "Sport con animale",
+  "parent_category_id" : 1199
+}, {
+  "category_id" : 2479,
+  "title_de" : "Osteuropäische Musik / Balkan",
+  "title_en" : "Eastern European Music / Balkans",
+  "title_fr" : "Musique de l'europe de l'est / Balkans",
+  "title_it" : "Musica del europa orientale / Balcani",
+  "parent_category_id" : 2347
+}, {
+  "category_id" : 2483,
+  "title_de" : "Hundesport",
+  "title_en" : "Dogs",
+  "title_fr" : "Chiens",
+  "title_it" : "Cani",
+  "parent_category_id" : 2475
+}, {
+  "category_id" : 2487,
+  "title_de" : "Weitere Party",
+  "title_en" : "Another style of music",
+  "title_fr" : "Autre style de musique",
+  "title_it" : "Altro stile di musica",
+  "parent_category_id" : 967
+}, {
+  "category_id" : 2491,
+  "title_de" : "Pferdesport",
+  "title_en" : "Equestrian",
+  "title_fr" : "Sports équestres",
+  "title_it" : "Equestre",
+  "parent_category_id" : 2475
+}, {
+  "category_id" : 2495,
+  "title_de" : "Schlittenhundesport",
+  "title_en" : "Sledge dog sports",
+  "title_fr" : "Chiens d'attelage",
+  "title_it" : "Cane da slitta",
+  "parent_category_id" : 2475
+}, {
+  "category_id" : 2499,
+  "title_de" : "Turnen, Gymnastik & Geschicklichkeit",
+  "title_en" : "Gymnastics & Skills",
+  "title_fr" : "Gymnastique & améliorations des compétences",
+  "title_it" : "Ginnastica & destrezza",
+  "parent_category_id" : 1199
+}, {
+  "category_id" : 2503,
+  "title_de" : "Aerobic",
+  "title_en" : "Aerobics",
+  "title_fr" : "Aérobic",
+  "title_it" : "Aerobica",
+  "parent_category_id" : 2499
+}, {
+  "category_id" : 2507,
+  "title_de" : "Akrobatik",
+  "title_en" : "Acrobatics",
+  "title_fr" : "Acrobatie",
+  "title_it" : "Acrobazie",
+  "parent_category_id" : 2499
+}, {
+  "category_id" : 2511,
+  "title_de" : "Bodenturnen",
+  "title_en" : "Floor Exercises",
+  "title_fr" : "Exercices au sol",
+  "title_it" : "Piano Esercizi",
+  "parent_category_id" : 2499
+}, {
+  "category_id" : 2515,
+  "title_de" : "Geräteturnen",
+  "title_en" : "Gymnastics",
+  "title_fr" : "Gymnastique",
+  "title_it" : "Ginnastica",
+  "parent_category_id" : 2499
+}, {
+  "category_id" : 2519,
+  "title_de" : "Rhönrad",
+  "title_en" : "Rhön Wheel",
+  "title_fr" : "Rhönrad",
+  "title_it" : "Rhönrad",
+  "parent_category_id" : 2499
+}, {
+  "category_id" : 2523,
+  "title_de" : "Trampolin",
+  "title_en" : "Trampoline",
+  "title_fr" : "Trampoline",
+  "title_it" : "Trampolino",
+  "parent_category_id" : 2499
+}, {
+  "category_id" : 2527,
+  "title_de" : "Turnen / Gymnastik",
+  "title_en" : "Gymnastics",
+  "title_fr" : "Gymnastique",
+  "title_it" : "Ginnastica",
+  "parent_category_id" : 2499
+}, {
+  "category_id" : 2531,
+  "title_de" : "Turnspiele",
+  "title_en" : "Gymnastics Games",
+  "title_fr" : "Jeux gymnastique",
+  "title_it" : "Giochi ginnastici",
+  "parent_category_id" : 2499
+}, {
+  "category_id" : 2535,
+  "title_de" : "Wassersport",
+  "title_en" : "Water sports",
+  "title_fr" : "Sport à l'eau",
+  "title_it" : "Sport nel acqua",
+  "parent_category_id" : 1199
+}, {
+  "category_id" : 2539,
+  "title_de" : "Kanu / Kajak",
+  "title_en" : "Canoe / Kayak",
+  "title_fr" : "Canoe / Kayak",
+  "title_it" : "Canoa / Kayak",
+  "parent_category_id" : 2535
+}, {
+  "category_id" : 2543,
+  "title_de" : "Rudern",
+  "title_en" : "Rowing",
+  "title_fr" : "Aviron",
+  "title_it" : "Canottaggio",
+  "parent_category_id" : 2535
+}, {
+  "category_id" : 2547,
+  "title_de" : "Schwimmen",
+  "title_en" : "Swimming",
+  "title_fr" : "Natation",
+  "title_it" : "Nuoto",
+  "parent_category_id" : 2535
+}, {
+  "category_id" : 2551,
+  "title_de" : "Segeln",
+  "title_en" : "Sailing",
+  "title_fr" : "Voile",
+  "title_it" : "Vela",
+  "parent_category_id" : 2535
+}, {
+  "category_id" : 2555,
+  "title_de" : "Surfen",
+  "title_en" : "Surfing",
+  "title_fr" : "Surf",
+  "title_it" : "Surfing",
+  "parent_category_id" : 2535
+}, {
+  "category_id" : 2559,
+  "title_de" : "Wakeboard / Wasserski",
+  "title_en" : "Wakeboard / Waterski",
+  "title_fr" : "Wakeboard / Ski nautique",
+  "title_it" : "Wakeboard / Sci nautico",
+  "parent_category_id" : 2535
+}, {
+  "category_id" : 2563,
+  "title_de" : "Wasserspass",
+  "title_en" : "Underwater Rugby",
+  "title_fr" : "Rugby subaquatique",
+  "title_it" : "Rugby subacqueo",
+  "parent_category_id" : 2535
+}, {
+  "category_id" : 2567,
+  "title_de" : "Wintersport",
+  "title_en" : "Winter Sports",
+  "title_fr" : "Sports d'hiver",
+  "title_it" : "Sport invernali",
+  "parent_category_id" : 1199
+}, {
+  "category_id" : 2571,
+  "title_de" : "Carving",
+  "title_en" : "Carving",
+  "title_fr" : "Carving",
+  "title_it" : "Carving",
+  "parent_category_id" : 2567
+}, {
+  "category_id" : 2575,
+  "title_de" : "Curling",
+  "title_en" : "Curling",
+  "title_fr" : "Curling",
+  "title_it" : "Curling",
+  "parent_category_id" : 2567
+}, {
+  "category_id" : 2579,
+  "title_de" : "Eislaufen",
+  "title_en" : "Ice Skating",
+  "title_fr" : "Patinage sur glace",
+  "title_it" : "Pattinaggio su ghiaccio",
+  "parent_category_id" : 2567
+}, {
+  "category_id" : 2583,
+  "title_de" : "Eisstockschiessen",
+  "title_en" : "Eisstockschiessen",
+  "title_fr" : "Eisstockschiessen",
+  "title_it" : "Eisstockschiessen",
+  "parent_category_id" : 2567
+}, {
+  "category_id" : 2587,
+  "title_de" : "Freeskiing",
+  "title_en" : "Freeskiing",
+  "title_fr" : "Freeskiing",
+  "title_it" : "Freeskiing",
+  "parent_category_id" : 2567
+}, {
+  "category_id" : 2591,
+  "title_de" : "Freestyle",
+  "title_en" : "Freestyle",
+  "title_fr" : "Freestyle",
+  "title_it" : "Freestyle",
+  "parent_category_id" : 2567
+}, {
+  "category_id" : 2595,
+  "title_de" : "Langlauf",
+  "title_en" : "Cross-country",
+  "title_fr" : "Ski de fond",
+  "title_it" : "Sci di fondo",
+  "parent_category_id" : 2567
+}, {
+  "category_id" : 2599,
+  "title_de" : "Schlitten- / Rodel- / Bobsport",
+  "title_en" : "Sled / luge / bobsleigh",
+  "title_fr" : "Luge / bobsleigh",
+  "title_it" : "Slitta / slittino / bob",
+  "parent_category_id" : 2567
+}, {
+  "category_id" : 2603,
+  "title_de" : "Schneespass",
+  "title_en" : "Snow fun",
+  "title_fr" : "Plaisir de neige",
+  "title_it" : "Piaggere nel neve",
+  "parent_category_id" : 2567
+}, {
+  "category_id" : 2607,
+  "title_de" : "Ski Alpin",
+  "title_en" : "Alpine Skiing",
+  "title_fr" : "Ski alpin",
+  "title_it" : "Sci alpino",
+  "parent_category_id" : 2567
+}, {
+  "category_id" : 2611,
+  "title_de" : "Skispringen",
+  "title_en" : "Ski Jumping",
+  "title_fr" : "Saut à ski",
+  "title_it" : "Salto con gli sci",
+  "parent_category_id" : 2567
+}, {
+  "category_id" : 2615,
+  "title_de" : "Ski Touren",
+  "title_en" : "Skiing",
+  "title_fr" : "Ski",
+  "title_it" : "Sci",
+  "parent_category_id" : 2567
+}, {
+  "category_id" : 2619,
+  "title_de" : "Snow Bike",
+  "title_en" : "Snow Bike",
+  "title_fr" : "Snow Bike",
+  "title_it" : "Snow Bike",
+  "parent_category_id" : 2567
+}, {
+  "category_id" : 2623,
+  "title_de" : "Snowboard",
+  "title_en" : "Snowboard",
+  "title_fr" : "Snowboard",
+  "title_it" : "Snowboard",
+  "parent_category_id" : 2567
+}, {
+  "category_id" : 2627,
+  "title_de" : "Telemark",
+  "title_en" : "Telemark",
+  "title_fr" : "Telemark",
+  "title_it" : "Telemark",
+  "parent_category_id" : 2567
+}, {
+  "category_id" : 2631,
+  "title_de" : "Darts",
+  "title_en" : "Darts",
+  "title_fr" : "Fléchettes",
+  "title_it" : "Freccette",
+  "parent_category_id" : 1199
+}, {
+  "category_id" : 2635,
+  "title_de" : "Allgemeine Sportveranstaltung",
+  "title_en" : "General Sporting Event",
+  "title_fr" : "Événement sportif général",
+  "title_it" : "Evento sportivo generale",
+  "parent_category_id" : 1199
+}, {
+  "category_id" : 2639,
+  "title_de" : "Weitere Sportveranstaltung",
+  "title_en" : "Other sports",
+  "title_fr" : "Autres sports",
+  "title_it" : "Altri sport",
+  "parent_category_id" : 1199
+}, {
+  "category_id" : 2643,
+  "title_de" : "Fitness",
+  "title_en" : "Fitness",
+  "title_fr" : "Fitness",
+  "title_it" : "Fitness",
+  "parent_category_id" : 1167
+}, {
+  "category_id" : 2647,
+  "title_de" : "Aquafitness / Wasserfitness",
+  "title_en" : "Aqua / water fitness",
+  "title_fr" : "Aqua / water fitness",
+  "title_it" : "Aqua / acqua fitness",
+  "parent_category_id" : 2643
+}, {
+  "category_id" : 2651,
+  "title_de" : "Ausdauertraining",
+  "title_en" : "Endurance",
+  "title_fr" : "Endurance",
+  "title_it" : "Perseveranza",
+  "parent_category_id" : 2643
+}, {
+  "category_id" : 2655,
+  "title_de" : "Bauch / Beine / Po",
+  "title_en" : "Belly / legs / butt",
+  "title_fr" : "Ventre / jambes / culot",
+  "title_it" : "Addome / gambe / culo",
+  "parent_category_id" : 2643
+}, {
+  "category_id" : 2659,
+  "title_de" : "Beckenboden",
+  "title_en" : "Pelvic",
+  "title_fr" : "Pelvienne",
+  "title_it" : "Pelvica",
+  "parent_category_id" : 2643
+}, {
+  "category_id" : 2663,
+  "title_de" : "Figurtraining / Bodyshaping",
+  "title_en" : "Figure Training / Bodyshaping",
+  "title_fr" : "Formation de la figure / Silhouette",
+  "title_it" : "Formazione della figura / Bodyshaping",
+  "parent_category_id" : 2643
+}, {
+  "category_id" : 2667,
+  "title_de" : "Fitnesstraining",
+  "title_en" : "Workout",
+  "title_fr" : "Workout",
+  "title_it" : "Training di fitness",
+  "parent_category_id" : 2643
+}, {
+  "category_id" : 2671,
+  "title_de" : "Gerätetraining",
+  "title_en" : "Gerätetraining",
+  "title_fr" : "Gerätetraining",
+  "title_it" : "Gerätetraining",
+  "parent_category_id" : 2643
+}, {
+  "category_id" : 2675,
+  "title_de" : "Pilates",
+  "title_en" : "Pilates",
+  "title_fr" : "Pilates",
+  "title_it" : "Pilates",
+  "parent_category_id" : 2643
+}, {
+  "category_id" : 2679,
+  "title_de" : "Powerplate",
+  "title_en" : "Power Plate",
+  "title_fr" : "Power Plate",
+  "title_it" : "Power Plate",
+  "parent_category_id" : 2643
+}, {
+  "category_id" : 2683,
+  "title_de" : "Qi Gong",
+  "title_en" : "Qi Gong",
+  "title_fr" : "Qi Gong",
+  "title_it" : "Qi Gong",
+  "parent_category_id" : 2643
+}, {
+  "category_id" : 2687,
+  "title_de" : "Rückentraining / Bewegung",
+  "title_en" : "Back Training / Exercise",
+  "title_fr" : "Entrainement du dos / Exercises",
+  "title_it" : "Allenamento dorsale / esercizie",
+  "parent_category_id" : 2643
+}, {
+  "category_id" : 2691,
+  "title_de" : "Tanz- / Rhythmusfitness",
+  "title_en" : "Dance / rhythm Fitness",
+  "title_fr" : "Fitness de danse / rythme",
+  "title_it" : "Fitness danza / ritmo",
+  "parent_category_id" : 2643
+}, {
+  "category_id" : 2695,
+  "title_de" : "Yoga",
+  "title_en" : "Yoga",
+  "title_fr" : "Yoga",
+  "title_it" : "Yoga",
+  "parent_category_id" : 2643
+}, {
+  "category_id" : 2699,
+  "title_de" : "Zumba",
+  "title_en" : "Zumba",
+  "title_fr" : "Zumba",
+  "title_it" : "Zumba",
+  "parent_category_id" : 2643
+}, {
+  "category_id" : 2703,
+  "title_de" : "Weitere Fitnessveranstaltungen",
+  "title_en" : "More fitness ads",
+  "title_fr" : "Autres offres Fitness",
+  "title_it" : "Altre offerte di Fitness",
+  "parent_category_id" : 2643
+}, {
+  "category_id" : 2707,
+  "title_de" : "Wellness",
+  "title_en" : "Wellness",
+  "title_fr" : "Bien-être",
+  "title_it" : "Wellness",
+  "parent_category_id" : 1167
+}, {
+  "category_id" : 2711,
+  "title_de" : "Jahrmarkt / Herbstmesse / Frühlingsmesse",
+  "title_en" : "Annual fair / autumn fair / spring fair",
+  "title_fr" : "Foire / kermesse",
+  "title_it" : "Fiera",
+  "parent_category_id" : 47
+}, {
+  "category_id" : 2715,
+  "title_de" : "Viehschau / Viehmarkt",
+  "title_en" : "Cattle Market",
+  "title_fr" : "Marché au bétail",
+  "title_it" : "Mercato del bestiame",
+  "parent_category_id" : 47
+}, {
+  "category_id" : 2719,
+  "title_de" : "Börse / Tauschmarkt",
+  "title_en" : "Exchange market",
+  "title_fr" : "Marché d'échange",
+  "title_it" : "Mercato di cambio",
+  "parent_category_id" : 47
+}, {
+  "category_id" : 2723,
+  "title_de" : "Flohmarkt",
+  "title_en" : "Flea Market",
+  "title_fr" : "Marché aux puces",
+  "title_it" : "Mercato delle pulci",
+  "parent_category_id" : 47
+}, {
+  "category_id" : 2727,
+  "title_de" : "Markt",
+  "title_en" : "Market",
+  "title_fr" : "Marché",
+  "title_it" : "Mercato",
+  "parent_category_id" : 47
+}, {
+  "category_id" : 2731,
+  "title_de" : "Messe",
+  "title_en" : "Trade Show",
+  "title_fr" : "Salon / foire commercial",
+  "title_it" : "Fiera commerciale",
+  "parent_category_id" : 47
+}, {
+  "category_id" : 2735,
+  "title_de" : "Hochzeitsmesse",
+  "title_en" : "Wedding Fair",
+  "title_fr" : "Salon du mariage",
+  "title_it" : "Wedding Fair",
+  "parent_category_id" : 47
+}, {
+  "category_id" : 2739,
+  "title_de" : "Wochenmarkt",
+  "title_en" : "Weekly market",
+  "title_fr" : "Marché hebdomadaire",
+  "title_it" : "Mercato settimanale",
+  "parent_category_id" : 47
+} ]
